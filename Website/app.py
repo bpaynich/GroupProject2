@@ -5,10 +5,32 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, inspect, func
 
+import googlemaps
+import gmaps
+import matplotlib.pyplot as plt
+import json
+import warnings
+import gmaps.geojson_geometries
+from matplotlib.cm import viridis
+from matplotlib.colors import to_hex
+from matplotlib.cm import viridis
+
+# Hide warning messages
+from ipywidgets.embed import embed_minimal_html
+warnings.filterwarnings('ignore')
+
+# Google developer API key
+from config import gkey
+
+# Access maps with unique API key
+gmaps.configure(api_key=gkey)
+gm = googlemaps.Client(key=gkey)
+gmaps.configure(api_key=gkey) 
+
 import pymysql
 pymysql.install_as_MySQLdb()
 
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
 
 # Database Setup
 #################################################
@@ -26,25 +48,35 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 
-
-@app.route("/")
-
-def load_page():
-    year_list = []
-    year_list = list(range(1950,2019))
+years_list = []
+years_list = list(range(1950,2019))
     
-    teams_list = []
-    team_file = ("../Resources/teams.csv")
-    teams_df = pd.read_csv(team_file)
-    team_list = teams_df['Teams'].tolist() 
-  
-    return render_template("index.html", team_list = team_list, year_list = year_list)
-@app.route("/results")
+teams_list = []
+team_file = ("../Resources/teams.csv")
+teams_df = pd.read_csv(team_file)
+team_list = teams_df['Teams'].tolist()
+
+#year_selected = 1995
+#team_selected = "PHO"
+
+    
+@app.route("/info", methods = ['GET','POST'])
 
 def results_page():
 
-    year_selected = 1977
-    team_selected = "TOT"
+    year_selected = request.args.get('year')
+    team_selected = request.args.get('team')
+    team_year = year_selected
+    full_team_name = "Phoenix Suns"
+    lat = 33.4457369
+    longitude = -112.0712006
+
+    arena_name = "Talking Stick Arena"
+    arena_street = "401 E Jefferson" 
+    arena_city = "Phoenix"
+    arena_state = "Arizona"
+    arena_zip = "85201"
+
 
     player_results = []
     player_results = engine.execute(f'''
@@ -91,15 +123,8 @@ def results_page():
     players = list(zip(year_list, player_list, position_list, age_list, tm_list, g_list, \
                     gs_list, mp_list, per_list, ts_list, par_list, ftr_list, stl_list, blk_list, tov_list, pf_list, pts_list))
 
-    years_list = []
-    years_list = list(range(1950,2019))
-    
-    teams_list = []
-    team_file = ("../Resources/teams.csv")
-    teams_df = pd.read_csv(team_file)
-    team_list = teams_df['Teams'].tolist() 
-  
-    return render_template("index.html", team_list = team_list, years_list = years_list, players = players )
+    return render_template("index.html", full_team_name = full_team_name, team_list = team_list, years_list = years_list, players = players, lat=lat, longitude=longitude, \
+        arena_name = arena_name, arena_street = arena_street, arena_city = arena_city, arena_state = arena_state, arena_zip = arena_zip, team_year = team_year )
 
 if __name__ == "__main__":
     app.run(debug=True)
