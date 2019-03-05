@@ -1,0 +1,1512 @@
+,year,venue,team
+0,1949,Wheaton Field House                ,atlanta hawks
+1,1950,Wheaton Field House                ,atlanta hawks
+2,1951,Milwaukee Arena                ,atlanta hawks
+3,1952,Milwaukee Arena                ,atlanta hawks
+4,1953,Milwaukee Arena                ,atlanta hawks
+5,1954,Milwaukee Arena                ,atlanta hawks
+6,1955,Kiel Auditorium             ,atlanta hawks
+7,1956,Kiel Auditorium             ,atlanta hawks
+8,1957,Kiel Auditorium             ,atlanta hawks
+9,1958,Kiel Auditorium             ,atlanta hawks
+10,1959,Kiel Auditorium             ,atlanta hawks
+11,1960,Kiel Auditorium             ,atlanta hawks
+12,1961,Kiel Auditorium             ,atlanta hawks
+13,1962,Kiel Auditorium             ,atlanta hawks
+14,1963,Kiel Auditorium             ,atlanta hawks
+15,1964,Kiel Auditorium             ,atlanta hawks
+16,1965,Kiel Auditorium             ,atlanta hawks
+17,1966,Kiel Auditorium             ,atlanta hawks
+18,1967,Kiel Auditorium             ,atlanta hawks
+19,1968,Alexander Memorial Coliseum       ,atlanta hawks
+20,1969,Alexander Memorial Coliseum       ,atlanta hawks
+21,1970,Alexander Memorial Coliseum       ,atlanta hawks
+22,1971,Alexander Memorial Coliseum       ,atlanta hawks
+23,1972,Omni Coliseum                     ,atlanta hawks
+24,1973,Omni Coliseum                     ,atlanta hawks
+25,1974,Omni Coliseum                     ,atlanta hawks
+26,1975,Omni Coliseum                     ,atlanta hawks
+27,1976,Omni Coliseum                     ,atlanta hawks
+28,1977,Omni Coliseum                     ,atlanta hawks
+29,1978,Omni Coliseum                     ,atlanta hawks
+30,1979,Omni Coliseum                     ,atlanta hawks
+31,1980,Omni Coliseum                     ,atlanta hawks
+32,1981,Omni Coliseum                     ,atlanta hawks
+33,1982,Omni Coliseum                     ,atlanta hawks
+34,1983,Omni Coliseum                     ,atlanta hawks
+35,1984,Omni Coliseum                     ,atlanta hawks
+36,1985,Omni Coliseum                     ,atlanta hawks
+37,1986,Omni Coliseum                     ,atlanta hawks
+38,1987,Omni Coliseum                     ,atlanta hawks
+39,1988,Omni Coliseum                     ,atlanta hawks
+40,1989,Omni Coliseum                     ,atlanta hawks
+41,1990,Omni Coliseum                     ,atlanta hawks
+42,1991,Omni Coliseum                     ,atlanta hawks
+43,1992,Omni Coliseum                     ,atlanta hawks
+44,1993,Omni Coliseum                     ,atlanta hawks
+45,1994,Omni Coliseum                     ,atlanta hawks
+46,1995,Omni Coliseum                     ,atlanta hawks
+47,1996,Omni Coliseum                     ,atlanta hawks
+48,1997,Georgia Dome                     ,atlanta hawks
+49,1998,Georgia Dome                     ,atlanta hawks
+50,1999,Philips Arena                    ,atlanta hawks
+51,2000,Philips Arena                    ,atlanta hawks
+52,2001,Philips Arena                    ,atlanta hawks
+53,2002,Philips Arena                    ,atlanta hawks
+54,2003,Philips Arena                    ,atlanta hawks
+55,2004,Philips Arena                    ,atlanta hawks
+56,2005,Philips Arena                    ,atlanta hawks
+57,2006,Philips Arena                    ,atlanta hawks
+58,2007,Philips Arena                    ,atlanta hawks
+59,2008,Philips Arena                    ,atlanta hawks
+60,2009,Philips Arena                    ,atlanta hawks
+61,2010,Philips Arena                    ,atlanta hawks
+62,2011,Philips Arena                    ,atlanta hawks
+63,2012,Philips Arena                    ,atlanta hawks
+64,2013,Philips Arena                    ,atlanta hawks
+65,2014,Philips Arena                    ,atlanta hawks
+66,2015,Philips Arena                    ,atlanta hawks
+67,2016,Philips Arena                    ,atlanta hawks
+68,2017,Philips Arena                    ,atlanta hawks
+69,2018,Philips Arena                    ,atlanta hawks
+70,1946,Boston Garden                     ,boston celtics
+71,1947,Boston Garden                     ,boston celtics
+72,1948,Boston Garden                     ,boston celtics
+73,1949,Boston Garden                     ,boston celtics
+74,1950,Boston Garden                     ,boston celtics
+75,1951,Boston Garden                     ,boston celtics
+76,1952,Boston Garden                     ,boston celtics
+77,1953,Boston Garden                     ,boston celtics
+78,1954,Boston Garden                     ,boston celtics
+79,1955,Boston Garden                     ,boston celtics
+80,1956,Boston Garden                     ,boston celtics
+81,1957,Boston Garden                     ,boston celtics
+82,1958,Boston Garden                     ,boston celtics
+83,1959,Boston Garden                     ,boston celtics
+84,1960,Boston Garden                     ,boston celtics
+85,1961,Boston Garden                     ,boston celtics
+86,1962,Boston Garden                     ,boston celtics
+87,1963,Boston Garden                     ,boston celtics
+88,1964,Boston Garden                     ,boston celtics
+89,1965,Boston Garden                     ,boston celtics
+90,1966,Boston Garden                     ,boston celtics
+91,1967,Boston Garden                     ,boston celtics
+92,1968,Boston Garden                     ,boston celtics
+93,1969,Boston Garden                     ,boston celtics
+94,1970,Boston Garden                     ,boston celtics
+95,1971,Boston Garden                     ,boston celtics
+96,1972,Boston Garden                     ,boston celtics
+97,1973,Boston Garden                     ,boston celtics
+98,1974,Boston Garden                     ,boston celtics
+99,1975,Boston Garden                     ,boston celtics
+100,1976,Boston Garden                     ,boston celtics
+101,1977,Boston Garden                     ,boston celtics
+102,1978,Boston Garden                     ,boston celtics
+103,1979,Boston Garden                     ,boston celtics
+104,1980,Boston Garden                     ,boston celtics
+105,1981,Boston Garden                     ,boston celtics
+106,1982,Boston Garden                     ,boston celtics
+107,1983,Boston Garden                     ,boston celtics
+108,1984,Boston Garden                     ,boston celtics
+109,1985,Boston Garden                     ,boston celtics
+110,1986,Boston Garden                     ,boston celtics
+111,1987,Boston Garden                     ,boston celtics
+112,1988,Boston Garden                     ,boston celtics
+113,1989,Boston Garden                     ,boston celtics
+114,1990,Boston Garden                     ,boston celtics
+115,1991,Boston Garden                     ,boston celtics
+116,1992,Boston Garden                     ,boston celtics
+117,1993,Boston Garden                     ,boston celtics
+118,1994,Boston Garden                     ,boston celtics
+119,1995,Fleet Center                      ,boston celtics
+120,1996,Fleet Center                      ,boston celtics
+121,1997,Fleet Center                      ,boston celtics
+122,1998,Fleet Center                      ,boston celtics
+123,1999,Fleet Center                      ,boston celtics
+124,2000,Fleet Center                      ,boston celtics
+125,2001,Fleet Center                      ,boston celtics
+126,2002,Fleet Center                      ,boston celtics
+127,2003,Fleet Center                      ,boston celtics
+128,2004,Fleet Center                      ,boston celtics
+129,2005,TD Garden                         ,boston celtics
+130,2006,TD Garden                         ,boston celtics
+131,2007,TD Garden                         ,boston celtics
+132,2008,TD Garden                         ,boston celtics
+133,2009,TD Garden                         ,boston celtics
+134,2010,TD Garden                         ,boston celtics
+135,2011,TD Garden                         ,boston celtics
+136,2012,TD Garden                         ,boston celtics
+137,2013,TD Garden                         ,boston celtics
+138,2014,TD Garden                         ,boston celtics
+139,2015,TD Garden                         ,boston celtics
+140,2016,TD Garden                         ,boston celtics
+141,2017,TD Garden                         ,boston celtics
+142,2018,TD Garden                         ,boston celtics
+143,2004,Time Warner Cable Arena          ,charolette hornets
+144,2005,Time Warner Cable Arena          ,charolette hornets
+145,2006,Time Warner Cable Arena          ,charolette hornets
+146,2007,Time Warner Cable Arena          ,charolette hornets
+147,2008,Time Warner Cable Arena          ,charolette hornets
+148,2009,Time Warner Cable Arena          ,charolette hornets
+149,2010,Time Warner Cable Arena          ,charolette hornets
+150,2011,Time Warner Cable Arena          ,charolette hornets
+151,2012,Time Warner Cable Arena          ,charolette hornets
+152,2013,Time Warner Cable Arena          ,charolette hornets
+153,2014,Time Warner Cable Arena          ,charolette hornets
+154,2015,Time Warner Cable Arena          ,charolette hornets
+155,2016,Time Warner Cable Arena          ,charolette hornets
+156,2017,Time Warner Cable Arena          ,charolette hornets
+157,2018,Time Warner Cable Arena          ,charolette hornets
+158,1966,Chicago Amphitheater             ,chicago bulls
+159,1967,Chicago Stadium                  ,chicago bulls
+160,1968,Chicago Stadium                  ,chicago bulls
+161,1969,Chicago Stadium                  ,chicago bulls
+162,1970,Chicago Stadium                  ,chicago bulls
+163,1971,Chicago Stadium                  ,chicago bulls
+164,1972,Chicago Stadium                  ,chicago bulls
+165,1973,Chicago Stadium                  ,chicago bulls
+166,1974,Chicago Stadium                  ,chicago bulls
+167,1975,Chicago Stadium                  ,chicago bulls
+168,1976,Chicago Stadium                  ,chicago bulls
+169,1977,Chicago Stadium                  ,chicago bulls
+170,1978,Chicago Stadium                  ,chicago bulls
+171,1979,Chicago Stadium                  ,chicago bulls
+172,1980,Chicago Stadium                  ,chicago bulls
+173,1981,Chicago Stadium                  ,chicago bulls
+174,1982,Chicago Stadium                  ,chicago bulls
+175,1983,Chicago Stadium                  ,chicago bulls
+176,1984,Chicago Stadium                  ,chicago bulls
+177,1985,Chicago Stadium                  ,chicago bulls
+178,1986,Chicago Stadium                  ,chicago bulls
+179,1987,Chicago Stadium                  ,chicago bulls
+180,1988,Chicago Stadium                  ,chicago bulls
+181,1989,Chicago Stadium                  ,chicago bulls
+182,1990,Chicago Stadium                  ,chicago bulls
+183,1991,Chicago Stadium                  ,chicago bulls
+184,1992,Chicago Stadium                  ,chicago bulls
+185,1993,Chicago Stadium                  ,chicago bulls
+186,1994,United Center                    ,chicago bulls
+187,1995,United Center                    ,chicago bulls
+188,1996,United Center                    ,chicago bulls
+189,1997,United Center                    ,chicago bulls
+190,1998,United Center                    ,chicago bulls
+191,1999,United Center                    ,chicago bulls
+192,2000,United Center                    ,chicago bulls
+193,2001,United Center                    ,chicago bulls
+194,2002,United Center                    ,chicago bulls
+195,2003,United Center                    ,chicago bulls
+196,2004,United Center                    ,chicago bulls
+197,2005,United Center                    ,chicago bulls
+198,2006,United Center                    ,chicago bulls
+199,2007,United Center                    ,chicago bulls
+200,2008,United Center                    ,chicago bulls
+201,2009,United Center                    ,chicago bulls
+202,2010,United Center                    ,chicago bulls
+203,2011,United Center                    ,chicago bulls
+204,2012,United Center                    ,chicago bulls
+205,2013,United Center                    ,chicago bulls
+206,2014,United Center                    ,chicago bulls
+207,2015,United Center                    ,chicago bulls
+208,2016,United Center                    ,chicago bulls
+209,2017,United Center                    ,chicago bulls
+210,2018,United Center                    ,chicago bulls
+211,1970,Cleveland Arena                ,cleveland cavaliers
+212,1971,Cleveland Arena                ,cleveland cavaliers
+213,1972,Cleveland Arena                ,cleveland cavaliers
+214,1973,Cleveland Arena                ,cleveland cavaliers
+215,1974,The Coliseum                    ,cleveland cavaliers
+216,1975,The Coliseum                    ,cleveland cavaliers
+217,1976,The Coliseum                    ,cleveland cavaliers
+218,1977,The Coliseum                    ,cleveland cavaliers
+219,1978,The Coliseum                    ,cleveland cavaliers
+220,1979,The Coliseum                    ,cleveland cavaliers
+221,1980,The Coliseum                    ,cleveland cavaliers
+222,1981,The Coliseum                    ,cleveland cavaliers
+223,1982,The Coliseum                    ,cleveland cavaliers
+224,1983,The Coliseum                    ,cleveland cavaliers
+225,1984,The Coliseum                    ,cleveland cavaliers
+226,1985,The Coliseum                    ,cleveland cavaliers
+227,1986,The Coliseum                    ,cleveland cavaliers
+228,1987,The Coliseum                    ,cleveland cavaliers
+229,1988,The Coliseum                    ,cleveland cavaliers
+230,1989,The Coliseum                    ,cleveland cavaliers
+231,1990,The Coliseum                    ,cleveland cavaliers
+232,1991,The Coliseum                    ,cleveland cavaliers
+233,1992,The Coliseum                    ,cleveland cavaliers
+234,1993,The Coliseum                    ,cleveland cavaliers
+235,1994,Gund Arena                     ,cleveland cavaliers
+236,1995,Gund Arena                     ,cleveland cavaliers
+237,1996,Gund Arena                     ,cleveland cavaliers
+238,1997,Gund Arena                     ,cleveland cavaliers
+239,1998,Gund Arena                     ,cleveland cavaliers
+240,1999,Gund Arena                     ,cleveland cavaliers
+241,2000,Gund Arena                     ,cleveland cavaliers
+242,2001,Gund Arena                     ,cleveland cavaliers
+243,2002,Gund Arena                     ,cleveland cavaliers
+244,2003,Gund Arena                     ,cleveland cavaliers
+245,2004,Gund Arena                     ,cleveland cavaliers
+246,2005,Quicken Loans Arean            ,cleveland cavaliers
+247,2006,Quicken Loans Arean            ,cleveland cavaliers
+248,2007,Quicken Loans Arean            ,cleveland cavaliers
+249,2008,Quicken Loans Arean            ,cleveland cavaliers
+250,2009,Quicken Loans Arean            ,cleveland cavaliers
+251,2010,Quicken Loans Arean            ,cleveland cavaliers
+252,2011,Quicken Loans Arean            ,cleveland cavaliers
+253,2012,Quicken Loans Arean            ,cleveland cavaliers
+254,2013,Quicken Loans Arean            ,cleveland cavaliers
+255,2014,Quicken Loans Arean            ,cleveland cavaliers
+256,2015,Quicken Loans Arean            ,cleveland cavaliers
+257,2016,Quicken Loans Arean            ,cleveland cavaliers
+258,2017,Quicken Loans Arean            ,cleveland cavaliers
+259,2018,Quicken Loans Arean            ,cleveland cavaliers
+260,1980,Reunion Arena                     ,dallas mavericks
+261,1981,Reunion Arena                     ,dallas mavericks
+262,1982,Reunion Arena                     ,dallas mavericks
+263,1983,Reunion Arena                     ,dallas mavericks
+264,1984,Reunion Arena                     ,dallas mavericks
+265,1985,Reunion Arena                     ,dallas mavericks
+266,1986,Reunion Arena                     ,dallas mavericks
+267,1987,Reunion Arena                     ,dallas mavericks
+268,1988,Reunion Arena                     ,dallas mavericks
+269,1989,Reunion Arena                     ,dallas mavericks
+270,1990,Reunion Arena                     ,dallas mavericks
+271,1991,Reunion Arena                     ,dallas mavericks
+272,1992,Reunion Arena                     ,dallas mavericks
+273,1993,Reunion Arena                     ,dallas mavericks
+274,1994,Reunion Arena                     ,dallas mavericks
+275,1995,Reunion Arena                     ,dallas mavericks
+276,1996,Reunion Arena                     ,dallas mavericks
+277,1997,Reunion Arena                     ,dallas mavericks
+278,1998,Reunion Arena                     ,dallas mavericks
+279,1999,Reunion Arena                     ,dallas mavericks
+280,2000,Reunion Arena                     ,dallas mavericks
+281,2001,American Airlines Arena           ,dallas mavericks
+282,2002,American Airlines Arena           ,dallas mavericks
+283,2003,American Airlines Arena           ,dallas mavericks
+284,2004,American Airlines Arena           ,dallas mavericks
+285,2005,American Airlines Arena           ,dallas mavericks
+286,2006,American Airlines Arena           ,dallas mavericks
+287,2007,American Airlines Arena           ,dallas mavericks
+288,2008,American Airlines Arena           ,dallas mavericks
+289,2009,American Airlines Arena           ,dallas mavericks
+290,2010,American Airlines Arena           ,dallas mavericks
+291,2011,American Airlines Arena           ,dallas mavericks
+292,2012,American Airlines Arena           ,dallas mavericks
+293,2013,American Airlines Arena           ,dallas mavericks
+294,2014,American Airlines Arena           ,dallas mavericks
+295,2015,American Airlines Arena           ,dallas mavericks
+296,2016,American Airlines Arena           ,dallas mavericks
+297,2017,American Airlines Arena           ,dallas mavericks
+298,2018,American Airlines Arena           ,dallas mavericks
+299,1967,Auditorium Arena                   ,denver nuggets
+300,1968,Auditorium Arena                   ,denver nuggets
+301,1969,Auditorium Arena                   ,denver nuggets
+302,1970,Auditorium Arena                   ,denver nuggets
+303,1971,Auditorium Arena                   ,denver nuggets
+304,1972,Auditorium Arena                   ,denver nuggets
+305,1973,Auditorium Arena                   ,denver nuggets
+306,1974,Auditorium Arena                   ,denver nuggets
+307,1975,McNichols Sports Arena            ,denver nuggets
+308,1976,McNichols Sports Arena            ,denver nuggets
+309,1977,McNichols Sports Arena            ,denver nuggets
+310,1978,McNichols Sports Arena            ,denver nuggets
+311,1979,McNichols Sports Arena            ,denver nuggets
+312,1980,McNichols Sports Arena            ,denver nuggets
+313,1981,McNichols Sports Arena            ,denver nuggets
+314,1982,McNichols Sports Arena            ,denver nuggets
+315,1983,McNichols Sports Arena            ,denver nuggets
+316,1984,McNichols Sports Arena            ,denver nuggets
+317,1985,McNichols Sports Arena            ,denver nuggets
+318,1986,McNichols Sports Arena            ,denver nuggets
+319,1987,McNichols Sports Arena            ,denver nuggets
+320,1988,McNichols Sports Arena            ,denver nuggets
+321,1989,McNichols Sports Arena            ,denver nuggets
+322,1990,McNichols Sports Arena            ,denver nuggets
+323,1991,McNichols Sports Arena            ,denver nuggets
+324,1992,McNichols Sports Arena            ,denver nuggets
+325,1993,McNichols Sports Arena            ,denver nuggets
+326,1994,McNichols Sports Arena            ,denver nuggets
+327,1995,McNichols Sports Arena            ,denver nuggets
+328,1996,McNichols Sports Arena            ,denver nuggets
+329,1997,McNichols Sports Arena            ,denver nuggets
+330,1998,McNichols Sports Arena            ,denver nuggets
+331,1999,Pepsi Center                      ,denver nuggets
+332,2000,Pepsi Center                      ,denver nuggets
+333,2001,Pepsi Center                      ,denver nuggets
+334,2002,Pepsi Center                      ,denver nuggets
+335,2003,Pepsi Center                      ,denver nuggets
+336,2004,Pepsi Center                      ,denver nuggets
+337,2005,Pepsi Center                      ,denver nuggets
+338,2006,Pepsi Center                      ,denver nuggets
+339,2007,Pepsi Center                      ,denver nuggets
+340,2008,Pepsi Center                      ,denver nuggets
+341,2009,Pepsi Center                      ,denver nuggets
+342,2010,Pepsi Center                      ,denver nuggets
+343,2011,Pepsi Center                      ,denver nuggets
+344,2012,Pepsi Center                      ,denver nuggets
+345,2013,Pepsi Center                      ,denver nuggets
+346,2014,Pepsi Center                      ,denver nuggets
+347,2015,Pepsi Center                      ,denver nuggets
+348,2016,Pepsi Center                      ,denver nuggets
+349,2017,Pepsi Center                      ,denver nuggets
+350,2018,Pepsi Center                      ,denver nuggets
+351,1948,North Side High School Gym   Fort   ,detroit pistons
+352,1949,North Side High School Gym   Fort   ,detroit pistons
+353,1950,North Side High School Gym   Fort   ,detroit pistons
+354,1951,North Side High School Gym   Fort   ,detroit pistons
+355,1952,Memorial Coliseum            Fort   ,detroit pistons
+356,1953,Memorial Coliseum            Fort   ,detroit pistons
+357,1954,Memorial Coliseum            Fort   ,detroit pistons
+358,1955,Memorial Coliseum            Fort   ,detroit pistons
+359,1956,Memorial Coliseum            Fort   ,detroit pistons
+360,1957,Olympia Stadium                  ,detroit pistons
+361,1958,Olympia Stadium                  ,detroit pistons
+362,1959,Olympia Stadium                  ,detroit pistons
+363,1960,Olympia Stadium                  ,detroit pistons
+364,1961,Cobo Arena                       ,detroit pistons
+365,1962,Cobo Arena                       ,detroit pistons
+366,1963,Cobo Arena                       ,detroit pistons
+367,1964,Cobo Arena                       ,detroit pistons
+368,1965,Cobo Arena                       ,detroit pistons
+369,1966,Cobo Arena                       ,detroit pistons
+370,1967,Cobo Arena                       ,detroit pistons
+371,1968,Cobo Arena                       ,detroit pistons
+372,1969,Cobo Arena                       ,detroit pistons
+373,1970,Cobo Arena                       ,detroit pistons
+374,1971,Cobo Arena                       ,detroit pistons
+375,1972,Cobo Arena                       ,detroit pistons
+376,1973,Cobo Arena                       ,detroit pistons
+377,1974,Cobo Arena                       ,detroit pistons
+378,1975,Cobo Arena                       ,detroit pistons
+379,1976,Cobo Arena                       ,detroit pistons
+380,1977,Cobo Arena                       ,detroit pistons
+381,1978,Silverdome                       ,detroit pistons
+382,1979,Silverdome                       ,detroit pistons
+383,1980,Silverdome                       ,detroit pistons
+384,1981,Silverdome                       ,detroit pistons
+385,1982,Silverdome                       ,detroit pistons
+386,1983,Silverdome                       ,detroit pistons
+387,1984,Silverdome                       ,detroit pistons
+388,1985,Silverdome                       ,detroit pistons
+389,1986,Silverdome                       ,detroit pistons
+390,1987,Silverdome                       ,detroit pistons
+391,1988,Palace of Auburn       ,detroit pistons
+392,1989,Palace of Auburn       ,detroit pistons
+393,1990,Palace of Auburn       ,detroit pistons
+394,1991,Palace of Auburn       ,detroit pistons
+395,1992,Palace of Auburn       ,detroit pistons
+396,1993,Palace of Auburn       ,detroit pistons
+397,1994,Palace of Auburn       ,detroit pistons
+398,1995,Palace of Auburn       ,detroit pistons
+399,1996,Palace of Auburn       ,detroit pistons
+400,1997,Palace of Auburn       ,detroit pistons
+401,1998,Palace of Auburn       ,detroit pistons
+402,1999,Palace of Auburn       ,detroit pistons
+403,2000,Palace of Auburn       ,detroit pistons
+404,2001,Palace of Auburn       ,detroit pistons
+405,2002,Palace of Auburn       ,detroit pistons
+406,2003,Palace of Auburn       ,detroit pistons
+407,2004,Palace of Auburn       ,detroit pistons
+408,2005,Palace of Auburn       ,detroit pistons
+409,2006,Palace of Auburn       ,detroit pistons
+410,2007,Palace of Auburn       ,detroit pistons
+411,2008,Palace of Auburn       ,detroit pistons
+412,2009,Palace of Auburn       ,detroit pistons
+413,2010,Palace of Auburn       ,detroit pistons
+414,2011,Palace of Auburn       ,detroit pistons
+415,2012,Palace of Auburn       ,detroit pistons
+416,2013,Palace of Auburn       ,detroit pistons
+417,2014,Palace of Auburn       ,detroit pistons
+418,2015,Palace of Auburn       ,detroit pistons
+419,2016,Palace of Auburn       ,detroit pistons
+420,2017,Palace of Auburn       ,detroit pistons
+421,2018,Palace of Auburn       ,detroit pistons
+422,1946,Philadelphia Arena              ,golden state warriors
+423,1947,Philadelphia Arena              ,golden state warriors
+424,1948,Philadelphia Arena              ,golden state warriors
+425,1949,Philadelphia Arena              ,golden state warriors
+426,1950,Philadelphia Arena              ,golden state warriors
+427,1951,Philadelphia Arena              ,golden state warriors
+428,1952,Convention Hall                 ,golden state warriors
+429,1953,Convention Hall                 ,golden state warriors
+430,1954,Convention Hall                 ,golden state warriors
+431,1955,Convention Hall                 ,golden state warriors
+432,1956,Convention Hall                 ,golden state warriors
+433,1957,Convention Hall                 ,golden state warriors
+434,1958,Convention Hall                 ,golden state warriors
+435,1959,Convention Hall                 ,golden state warriors
+436,1960,Convention Hall                 ,golden state warriors
+437,1961,Convention Hall                 ,golden state warriors
+438,1962,Cow Palace                  ,golden state warriors
+439,1963,Cow Palace                  ,golden state warriors
+440,1964,Civic Auditorium          ,golden state warriors
+441,1965,Civic Auditorium          ,golden state warriors
+442,1966,Cow Palace       ,golden state warriors
+443,1967,Cow Palace              ,golden state warriors
+444,1968,Cow Palace              ,golden state warriors
+445,1969,Cow Palace              ,golden state warriors
+446,1970,Cow Palace              ,golden state warriors
+447,1971,Oakland Coliseum        ,golden state warriors
+448,1972,Oakland Coliseum        ,golden state warriors
+449,1973,Oakland Coliseum        ,golden state warriors
+450,1974,Oakland Coliseum        ,golden state warriors
+451,1975,Oakland Coliseum        ,golden state warriors
+452,1976,Oakland Coliseum        ,golden state warriors
+453,1977,Oakland Coliseum        ,golden state warriors
+454,1978,Oakland Coliseum        ,golden state warriors
+455,1979,Oakland Coliseum        ,golden state warriors
+456,1980,Oakland Coliseum        ,golden state warriors
+457,1981,Oakland Coliseum        ,golden state warriors
+458,1982,Oakland Coliseum        ,golden state warriors
+459,1983,Oakland Coliseum        ,golden state warriors
+460,1984,Oakland Coliseum        ,golden state warriors
+461,1985,Oakland Coliseum        ,golden state warriors
+462,1986,Oakland Coliseum        ,golden state warriors
+463,1987,Oakland Coliseum        ,golden state warriors
+464,1988,Oakland Coliseum        ,golden state warriors
+465,1989,Oakland Coliseum        ,golden state warriors
+466,1990,Oakland Coliseum        ,golden state warriors
+467,1991,Oakland Coliseum        ,golden state warriors
+468,1992,Oakland Coliseum        ,golden state warriors
+469,1993,Oakland Coliseum        ,golden state warriors
+470,1994,Oakland Coliseum        ,golden state warriors
+471,1995,Oakland Coliseum        ,golden state warriors
+472,1996,San Jose Arena      ,golden state warriors
+473,1997,The Arena in Oakland                ,golden state warriors
+474,1998,The Arena in Oakland                ,golden state warriors
+475,1999,The Arena in Oakland                ,golden state warriors
+476,2000,The Arena in Oakland                ,golden state warriors
+477,2001,The Arena in Oakland                ,golden state warriors
+478,2002,The Arena in Oakland                ,golden state warriors
+479,2003,The Arena in Oakland                ,golden state warriors
+480,2004,The Arena in Oakland                ,golden state warriors
+481,2005,The Arena in Oakland                ,golden state warriors
+482,2006,Oracle Arena                        ,golden state warriors
+483,2007,Oracle Arena                        ,golden state warriors
+484,2008,Oracle Arena                        ,golden state warriors
+485,2009,Oracle Arena                        ,golden state warriors
+486,2010,Oracle Arena                        ,golden state warriors
+487,2011,Oracle Arena                        ,golden state warriors
+488,2012,Oracle Arena                        ,golden state warriors
+489,2013,Oracle Arena                        ,golden state warriors
+490,2014,Oracle Arena                        ,golden state warriors
+491,2015,Oracle Arena                        ,golden state warriors
+492,2016,Oracle Arena                        ,golden state warriors
+493,2017,Oracle Arena                        ,golden state warriors
+494,2018,Oracle Arena                        ,golden state warriors
+495,1967,San Diego Sports Arena,houston rockets
+496,1968,San Diego Sports Arena,houston rockets
+497,1969,San Diego Sports Arena,houston rockets
+498,1970,San Diego Sports Arena,houston rockets
+499,1971,Hofheinz Pavilion                ,houston rockets
+500,1972,Hofheinz Pavilion                ,houston rockets
+501,1973,Hofheinz Pavilion                ,houston rockets
+502,1974,Hofheinz Pavilion                ,houston rockets
+503,1975,Compaq Center                    ,houston rockets
+504,1976,Compaq Center                    ,houston rockets
+505,1977,Compaq Center                    ,houston rockets
+506,1978,Compaq Center                    ,houston rockets
+507,1979,Compaq Center                    ,houston rockets
+508,1980,Compaq Center                    ,houston rockets
+509,1981,Compaq Center                    ,houston rockets
+510,1982,Compaq Center                    ,houston rockets
+511,1983,Compaq Center                    ,houston rockets
+512,1984,Compaq Center                    ,houston rockets
+513,1985,Compaq Center                    ,houston rockets
+514,1986,Compaq Center                    ,houston rockets
+515,1987,Compaq Center                    ,houston rockets
+516,1988,Compaq Center                    ,houston rockets
+517,1989,Compaq Center                    ,houston rockets
+518,1990,Compaq Center                    ,houston rockets
+519,1991,Compaq Center                    ,houston rockets
+520,1992,Compaq Center                    ,houston rockets
+521,1993,Compaq Center                    ,houston rockets
+522,1994,Compaq Center                    ,houston rockets
+523,1995,Compaq Center                    ,houston rockets
+524,1996,Compaq Center                    ,houston rockets
+525,1997,Compaq Center                    ,houston rockets
+526,1998,Compaq Center                    ,houston rockets
+527,1999,Compaq Center                    ,houston rockets
+528,2000,Compaq Center                    ,houston rockets
+529,2001,Compaq Center                    ,houston rockets
+530,2002,Compaq Center                    ,houston rockets
+531,2003,Toyota Center,houston rockets
+532,2004,Toyota Center,houston rockets
+533,2005,Toyota Center,houston rockets
+534,2006,Toyota Center,houston rockets
+535,2007,Toyota Center,houston rockets
+536,2008,Toyota Center,houston rockets
+537,2009,Toyota Center,houston rockets
+538,2010,Toyota Center,houston rockets
+539,2011,Toyota Center,houston rockets
+540,2012,Toyota Center,houston rockets
+541,2013,Toyota Center,houston rockets
+542,2014,Toyota Center,houston rockets
+543,2015,Toyota Center,houston rockets
+544,2016,Toyota Center,houston rockets
+545,2017,Toyota Center,houston rockets
+546,2018,Toyota Center,houston rockets
+547,1967,State Fairgrounds              ,indiana pacers
+548,1968,State Fairgrounds              ,indiana pacers
+549,1969,State Fairgrounds              ,indiana pacers
+550,1970,State Fairgrounds              ,indiana pacers
+551,1971,State Fairgrounds              ,indiana pacers
+552,1972,State Fairgrounds              ,indiana pacers
+553,1973,State Fairgrounds              ,indiana pacers
+554,1974,Market Square Arena           ,indiana pacers
+555,1975,Market Square Arena           ,indiana pacers
+556,1976,Market Square Arena           ,indiana pacers
+557,1977,Market Square Arena           ,indiana pacers
+558,1978,Market Square Arena           ,indiana pacers
+559,1979,Market Square Arena           ,indiana pacers
+560,1980,Market Square Arena           ,indiana pacers
+561,1981,Market Square Arena           ,indiana pacers
+562,1982,Market Square Arena           ,indiana pacers
+563,1983,Market Square Arena           ,indiana pacers
+564,1984,Market Square Arena           ,indiana pacers
+565,1985,Market Square Arena           ,indiana pacers
+566,1986,Market Square Arena           ,indiana pacers
+567,1987,Market Square Arena           ,indiana pacers
+568,1988,Market Square Arena           ,indiana pacers
+569,1989,Market Square Arena           ,indiana pacers
+570,1990,Market Square Arena           ,indiana pacers
+571,1991,Market Square Arena           ,indiana pacers
+572,1992,Market Square Arena           ,indiana pacers
+573,1993,Market Square Arena           ,indiana pacers
+574,1994,Market Square Arena           ,indiana pacers
+575,1995,Market Square Arena           ,indiana pacers
+576,1996,Market Square Arena           ,indiana pacers
+577,1997,Market Square Arena           ,indiana pacers
+578,1998,Market Square Arena           ,indiana pacers
+579,1999,Conseco Fieldhouse            ,indiana pacers
+580,2000,Conseco Fieldhouse            ,indiana pacers
+581,2001,Conseco Fieldhouse            ,indiana pacers
+582,2002,Conseco Fieldhouse            ,indiana pacers
+583,2003,Conseco Fieldhouse            ,indiana pacers
+584,2004,Conseco Fieldhouse            ,indiana pacers
+585,2005,Conseco Fieldhouse            ,indiana pacers
+586,2006,Conseco Fieldhouse            ,indiana pacers
+587,2007,Conseco Fieldhouse            ,indiana pacers
+588,2008,Conseco Fieldhouse            ,indiana pacers
+589,2009,Conseco Fieldhouse            ,indiana pacers
+590,2010,Bankers Life Fieldhouse       ,indiana pacers
+591,2011,Bankers Life Fieldhouse       ,indiana pacers
+592,2012,Bankers Life Fieldhouse       ,indiana pacers
+593,2013,Bankers Life Fieldhouse       ,indiana pacers
+594,2014,Bankers Life Fieldhouse       ,indiana pacers
+595,2015,Bankers Life Fieldhouse       ,indiana pacers
+596,2016,Bankers Life Fieldhouse       ,indiana pacers
+597,2017,Bankers Life Fieldhouse       ,indiana pacers
+598,2018,Bankers Life Fieldhouse       ,indiana pacers
+599,1970,Memorial Auditorium              ,los angeles clippers
+600,1971,Memorial Auditorium              ,los angeles clippers
+601,1972,Memorial Auditorium              ,los angeles clippers
+602,1973,Memorial Auditorium              ,los angeles clippers
+603,1974,Memorial Auditorium              ,los angeles clippers
+604,1975,Memorial Auditorium              ,los angeles clippers
+605,1976,Memorial Auditorium              ,los angeles clippers
+606,1977,Memorial Auditorium              ,los angeles clippers
+607,1978,San Diego Sports Arena  ,los angeles clippers
+608,1979,San Diego Sports Arena  ,los angeles clippers
+609,1980,San Diego Sports Arena  ,los angeles clippers
+610,1981,San Diego Sports Arena  ,los angeles clippers
+611,1982,San Diego Sports Arena  ,los angeles clippers
+612,1983,San Diego Sports Arena  ,los angeles clippers
+613,1985,Los Angeles Sports Arena  ,los angeles clippers
+614,1986,Los Angeles Sports Arena  ,los angeles clippers
+615,1987,Los Angeles Sports Arena  ,los angeles clippers
+616,1988,Los Angeles Sports Arena  ,los angeles clippers
+617,1989,Los Angeles Sports Arena  ,los angeles clippers
+618,1990,Los Angeles Sports Arena  ,los angeles clippers
+619,1991,Los Angeles Sports Arena  ,los angeles clippers
+620,1992,Los Angeles Sports Arena  ,los angeles clippers
+621,1993,Los Angeles Sports Arena  ,los angeles clippers
+622,1994,Los Angeles Sports Arena ,los angeles clippers
+623,1995,Los Angeles Sports Arena ,los angeles clippers
+624,1996,Los Angeles Sports Arena ,los angeles clippers
+625,1997,Los Angeles Sports Arena ,los angeles clippers
+626,1998,Los Angeles Sports Arena ,los angeles clippers
+627,1999,Staples Center   ,los angeles clippers
+628,2000,Staples Center   ,los angeles clippers
+629,2001,Staples Center   ,los angeles clippers
+630,2002,Staples Center   ,los angeles clippers
+631,2003,Staples Center   ,los angeles clippers
+632,2004,Staples Center   ,los angeles clippers
+633,2005,Staples Center   ,los angeles clippers
+634,2006,Staples Center   ,los angeles clippers
+635,2007,Staples Center   ,los angeles clippers
+636,2008,Staples Center   ,los angeles clippers
+637,2009,Staples Center   ,los angeles clippers
+638,2010,Staples Center   ,los angeles clippers
+639,2011,Staples Center   ,los angeles clippers
+640,2012,Staples Center   ,los angeles clippers
+641,2013,Staples Center   ,los angeles clippers
+642,2014,Staples Center   ,los angeles clippers
+643,2015,Staples Center   ,los angeles clippers
+644,2016,Staples Center   ,los angeles clippers
+645,2017,Staples Center   ,los angeles clippers
+646,2018,Staples Center   ,los angeles clippers
+647,1948,Minneapolis Auditorium        ,los angeles lakers
+648,1949,Minneapolis Auditorium        ,los angeles lakers
+649,1950,Minneapolis Auditorium        ,los angeles lakers
+650,1951,Minneapolis Auditorium        ,los angeles lakers
+651,1952,Minneapolis Auditorium        ,los angeles lakers
+652,1953,Minneapolis Auditorium        ,los angeles lakers
+653,1954,Minneapolis Auditorium        ,los angeles lakers
+654,1955,Minneapolis Auditorium        ,los angeles lakers
+655,1956,Minneapolis Auditorium        ,los angeles lakers
+656,1957,Minneapolis Auditorium        ,los angeles lakers
+657,1958,Minneapolis Auditorium        ,los angeles lakers
+658,1959,Minneapolis Auditorium        ,los angeles lakers
+659,1960,Los Angeles Sports Arena  ,los angeles lakers
+660,1961,Los Angeles Sports Arena  ,los angeles lakers
+661,1962,Los Angeles Sports Arena  ,los angeles lakers
+662,1963,Los Angeles Sports Arena  ,los angeles lakers
+663,1964,Los Angeles Sports Arena  ,los angeles lakers
+664,1965,Los Angeles Sports Arena  ,los angeles lakers
+665,1966,Los Angeles Sports Arena  ,los angeles lakers
+666,1967,Great Western Forum             ,los angeles lakers
+667,1968,Great Western Forum             ,los angeles lakers
+668,1969,Great Western Forum             ,los angeles lakers
+669,1970,Great Western Forum             ,los angeles lakers
+670,1971,Great Western Forum             ,los angeles lakers
+671,1972,Great Western Forum             ,los angeles lakers
+672,1973,Great Western Forum             ,los angeles lakers
+673,1974,Great Western Forum             ,los angeles lakers
+674,1975,Great Western Forum             ,los angeles lakers
+675,1976,Great Western Forum             ,los angeles lakers
+676,1977,Great Western Forum             ,los angeles lakers
+677,1978,Great Western Forum             ,los angeles lakers
+678,1979,Great Western Forum             ,los angeles lakers
+679,1980,Great Western Forum             ,los angeles lakers
+680,1981,Great Western Forum             ,los angeles lakers
+681,1982,Great Western Forum             ,los angeles lakers
+682,1983,Great Western Forum             ,los angeles lakers
+683,1984,Great Western Forum             ,los angeles lakers
+684,1985,Great Western Forum             ,los angeles lakers
+685,1986,Great Western Forum             ,los angeles lakers
+686,1987,Great Western Forum             ,los angeles lakers
+687,1988,Great Western Forum             ,los angeles lakers
+688,1989,Great Western Forum             ,los angeles lakers
+689,1990,Great Western Forum             ,los angeles lakers
+690,1991,Great Western Forum             ,los angeles lakers
+691,1992,Great Western Forum             ,los angeles lakers
+692,1993,Great Western Forum             ,los angeles lakers
+693,1994,Great Western Forum             ,los angeles lakers
+694,1995,Great Western Forum             ,los angeles lakers
+695,1996,Great Western Forum             ,los angeles lakers
+696,1997,Great Western Forum             ,los angeles lakers
+697,1998,Great Western Forum             ,los angeles lakers
+698,1999,Staples Center              ,los angeles lakers
+699,2000,Staples Center              ,los angeles lakers
+700,2001,Staples Center              ,los angeles lakers
+701,2002,Staples Center              ,los angeles lakers
+702,2003,Staples Center              ,los angeles lakers
+703,2004,Staples Center              ,los angeles lakers
+704,2005,Staples Center              ,los angeles lakers
+705,2006,Staples Center              ,los angeles lakers
+706,2007,Staples Center              ,los angeles lakers
+707,2008,Staples Center              ,los angeles lakers
+708,2009,Staples Center              ,los angeles lakers
+709,2010,Staples Center              ,los angeles lakers
+710,2011,Staples Center              ,los angeles lakers
+711,2012,Staples Center              ,los angeles lakers
+712,2013,Staples Center              ,los angeles lakers
+713,2014,Staples Center              ,los angeles lakers
+714,2015,Staples Center              ,los angeles lakers
+715,2016,Staples Center              ,los angeles lakers
+716,2017,Staples Center              ,los angeles lakers
+717,2018,Staples Center              ,los angeles lakers
+718,1995,General Motors Place           ,memphis grizzlies
+719,1996,General Motors Place           ,memphis grizzlies
+720,1997,General Motors Place           ,memphis grizzlies
+721,1998,General Motors Place           ,memphis grizzlies
+722,1999,General Motors Place           ,memphis grizzlies
+723,2000,General Motors Place           ,memphis grizzlies
+724,2001,The Pryamid                     ,memphis grizzlies
+725,2002,The Pryamid                     ,memphis grizzlies
+726,2003,The Pryamid                     ,memphis grizzlies
+727,2004,FedEx Forum                      ,memphis grizzlies
+728,2005,FedEx Forum                      ,memphis grizzlies
+729,2006,FedEx Forum                      ,memphis grizzlies
+730,2007,FedEx Forum                      ,memphis grizzlies
+731,2008,FedEx Forum                      ,memphis grizzlies
+732,2009,FedEx Forum                      ,memphis grizzlies
+733,2010,FedEx Forum                      ,memphis grizzlies
+734,2011,FedEx Forum                      ,memphis grizzlies
+735,2012,FedEx Forum                      ,memphis grizzlies
+736,2013,FedEx Forum                      ,memphis grizzlies
+737,2014,FedEx Forum                      ,memphis grizzlies
+738,2015,FedEx Forum                      ,memphis grizzlies
+739,2016,FedEx Forum                      ,memphis grizzlies
+740,2017,FedEx Forum                      ,memphis grizzlies
+741,2018,FedEx Forum                      ,memphis grizzlies
+742,1988,Miami Arena                        ,miami heat
+743,1989,Miami Arena                        ,miami heat
+744,1990,Miami Arena                        ,miami heat
+745,1991,Miami Arena                        ,miami heat
+746,1992,Miami Arena                        ,miami heat
+747,1993,Miami Arena                        ,miami heat
+748,1994,Miami Arena                        ,miami heat
+749,1995,Miami Arena                        ,miami heat
+750,1996,Miami Arena                        ,miami heat
+751,1997,Miami Arena                        ,miami heat
+752,1998,Miami Arena                        ,miami heat
+753,1999,American Airlines Arena            ,miami heat
+754,2000,American Airlines Arena            ,miami heat
+755,2001,American Airlines Arena            ,miami heat
+756,2002,American Airlines Arena            ,miami heat
+757,2003,American Airlines Arena            ,miami heat
+758,2004,American Airlines Arena            ,miami heat
+759,2005,American Airlines Arena            ,miami heat
+760,2006,American Airlines Arena            ,miami heat
+761,2007,American Airlines Arena            ,miami heat
+762,2008,American Airlines Arena            ,miami heat
+763,2009,American Airlines Arena            ,miami heat
+764,2010,American Airlines Arena            ,miami heat
+765,2011,American Airlines Arena            ,miami heat
+766,2012,American Airlines Arena            ,miami heat
+767,2013,American Airlines Arena            ,miami heat
+768,2014,American Airlines Arena            ,miami heat
+769,2015,American Airlines Arena            ,miami heat
+770,2016,American Airlines Arena            ,miami heat
+771,2017,American Airlines Arena            ,miami heat
+772,2018,American Airlines Arena            ,miami heat
+773,1989,Hubert H. Humphrey Metrodome   ,minnesota timberwolves
+774,1990,Target Center                 ,minnesota timberwolves
+775,1991,Target Center                 ,minnesota timberwolves
+776,1992,Target Center                 ,minnesota timberwolves
+777,1993,Target Center                 ,minnesota timberwolves
+778,1994,Target Center                 ,minnesota timberwolves
+779,1995,Target Center                 ,minnesota timberwolves
+780,1996,Target Center                 ,minnesota timberwolves
+781,1997,Target Center                 ,minnesota timberwolves
+782,1998,Target Center                 ,minnesota timberwolves
+783,1999,Target Center                 ,minnesota timberwolves
+784,2000,Target Center                 ,minnesota timberwolves
+785,2001,Target Center                 ,minnesota timberwolves
+786,2002,Target Center                 ,minnesota timberwolves
+787,2003,Target Center                 ,minnesota timberwolves
+788,2004,Target Center                 ,minnesota timberwolves
+789,2005,Target Center                 ,minnesota timberwolves
+790,2006,Target Center                 ,minnesota timberwolves
+791,2007,Target Center                 ,minnesota timberwolves
+792,2008,Target Center                 ,minnesota timberwolves
+793,2009,Target Center                 ,minnesota timberwolves
+794,2010,Target Center                 ,minnesota timberwolves
+795,2011,Target Center                 ,minnesota timberwolves
+796,2012,Target Center                 ,minnesota timberwolves
+797,2013,Target Center                 ,minnesota timberwolves
+798,2014,Target Center                 ,minnesota timberwolves
+799,2015,Target Center                 ,minnesota timberwolves
+800,2016,Target Center                 ,minnesota timberwolves
+801,2017,Target Center                 ,minnesota timberwolves
+802,2018,Target Center                 ,minnesota timberwolves
+803,1968,Milwaukee Arena                ,milwaukee bucks
+804,1969,Milwaukee Arena                ,milwaukee bucks
+805,1970,Milwaukee Arena                ,milwaukee bucks
+806,1971,Milwaukee Arena                ,milwaukee bucks
+807,1972,Milwaukee Arena                ,milwaukee bucks
+808,1973,Milwaukee Arena                ,milwaukee bucks
+809,1974,Milwaukee Arena                ,milwaukee bucks
+810,1975,Milwaukee Arena                ,milwaukee bucks
+811,1976,Milwaukee Arena                ,milwaukee bucks
+812,1977,Milwaukee Arena                ,milwaukee bucks
+813,1978,Milwaukee Arena                ,milwaukee bucks
+814,1979,Milwaukee Arena                ,milwaukee bucks
+815,1980,Milwaukee Arena                ,milwaukee bucks
+816,1981,Milwaukee Arena                ,milwaukee bucks
+817,1982,Milwaukee Arena                ,milwaukee bucks
+818,1983,Milwaukee Arena                ,milwaukee bucks
+819,1984,Milwaukee Arena                ,milwaukee bucks
+820,1985,Milwaukee Arena                ,milwaukee bucks
+821,1986,Milwaukee Arena                ,milwaukee bucks
+822,1987,Milwaukee Arena                ,milwaukee bucks
+823,1988,Bradley Center                 ,milwaukee bucks
+824,1989,Bradley Center                 ,milwaukee bucks
+825,1990,Bradley Center                 ,milwaukee bucks
+826,1991,Bradley Center                 ,milwaukee bucks
+827,1992,Bradley Center                 ,milwaukee bucks
+828,1993,Bradley Center                 ,milwaukee bucks
+829,1994,Bradley Center                 ,milwaukee bucks
+830,1995,Bradley Center                 ,milwaukee bucks
+831,1996,Bradley Center                 ,milwaukee bucks
+832,1997,Bradley Center                 ,milwaukee bucks
+833,1998,Bradley Center                 ,milwaukee bucks
+834,1999,Bradley Center                 ,milwaukee bucks
+835,2000,Bradley Center                 ,milwaukee bucks
+836,2001,Bradley Center                 ,milwaukee bucks
+837,2002,Bradley Center                 ,milwaukee bucks
+838,2003,Bradley Center                 ,milwaukee bucks
+839,2004,Bradley Center                 ,milwaukee bucks
+840,2005,Bradley Center                 ,milwaukee bucks
+841,2006,Bradley Center                 ,milwaukee bucks
+842,2007,Bradley Center                 ,milwaukee bucks
+843,2008,Bradley Center                 ,milwaukee bucks
+844,2009,Bradley Center                 ,milwaukee bucks
+845,2010,Bradley Center                 ,milwaukee bucks
+846,2011,Bradley Center                 ,milwaukee bucks
+847,2012,Bradley Center                 ,milwaukee bucks
+848,2013,Bradley Center                 ,milwaukee bucks
+849,2014,Bradley Center                 ,milwaukee bucks
+850,2015,Bradley Center                 ,milwaukee bucks
+851,2016,Bradley Center                 ,milwaukee bucks
+852,2017,Bradley Center                 ,milwaukee bucks
+853,2018,Bradley Center                 ,milwaukee bucks
+854,1967,Teaneck Armory                    ,brooklyn nets
+855,1968,Long Island Arena                 ,brooklyn nets
+856,1969,Island Garden            ,brooklyn nets
+857,1970,Island Garden            ,brooklyn nets
+858,1971,Nassau Coliseum                ,brooklyn nets
+859,1972,Nassau Coliseum                ,brooklyn nets
+860,1973,Nassau Coliseum                ,brooklyn nets
+861,1974,Nassau Coliseum                ,brooklyn nets
+862,1975,Nassau Coliseum                ,brooklyn nets
+863,1976,Nassau Coliseum                ,brooklyn nets
+864,1977,Rutgers Athletic Center        ,brooklyn nets
+865,1978,Rutgers Athletic Center        ,brooklyn nets
+866,1979,Rutgers Athletic Center        ,brooklyn nets
+867,1980,Rutgers Athletic Center        ,brooklyn nets
+868,1981,Continental Airlines Arena    ,brooklyn nets
+869,1982,Continental Airlines Arena    ,brooklyn nets
+870,1983,Continental Airlines Arena    ,brooklyn nets
+871,1984,Continental Airlines Arena    ,brooklyn nets
+872,1985,Continental Airlines Arena    ,brooklyn nets
+873,1986,Continental Airlines Arena    ,brooklyn nets
+874,1987,Continental Airlines Arena    ,brooklyn nets
+875,1988,Continental Airlines Arena    ,brooklyn nets
+876,1989,Continental Airlines Arena    ,brooklyn nets
+877,1990,Continental Airlines Arena    ,brooklyn nets
+878,1991,Continental Airlines Arena    ,brooklyn nets
+879,1992,Continental Airlines Arena    ,brooklyn nets
+880,1993,Continental Airlines Arena    ,brooklyn nets
+881,1994,Continental Airlines Arena    ,brooklyn nets
+882,1995,Continental Airlines Arena    ,brooklyn nets
+883,1996,Continental Airlines Arena    ,brooklyn nets
+884,1997,Continental Airlines Arena    ,brooklyn nets
+885,1998,Continental Airlines Arena    ,brooklyn nets
+886,1999,Continental Airlines Arena    ,brooklyn nets
+887,2000,Continental Airlines Arena    ,brooklyn nets
+888,2001,Continental Airlines Arena    ,brooklyn nets
+889,2002,Continental Airlines Arena    ,brooklyn nets
+890,2003,Continental Airlines Arena    ,brooklyn nets
+891,2004,Continental Airlines Arena    ,brooklyn nets
+892,2005,Continental Airlines Arena    ,brooklyn nets
+893,2006,Continental Airlines Arena    ,brooklyn nets
+894,2007,Continental Airlines Arena    ,brooklyn nets
+895,2008,Continental Airlines Arena    ,brooklyn nets
+896,2009,Continental Airlines Arena    ,brooklyn nets
+897,2010,Continental Airlines Arena    ,brooklyn nets
+898,2011,Continental Airlines Arena    ,brooklyn nets
+899,2012,Barclays Center                  ,brooklyn nets
+900,2013,Barclays Center                  ,brooklyn nets
+901,2014,Barclays Center                  ,brooklyn nets
+902,2015,Barclays Center                  ,brooklyn nets
+903,2016,Barclays Center                  ,brooklyn nets
+904,2017,Barclays Center                  ,brooklyn nets
+905,2018,Barclays Center                  ,brooklyn nets
+906,1988,Charlotte Coliseum              ,new orleans pelicans
+907,1989,Charlotte Coliseum              ,new orleans pelicans
+908,1990,Charlotte Coliseum              ,new orleans pelicans
+909,1991,Charlotte Coliseum              ,new orleans pelicans
+910,1992,Charlotte Coliseum              ,new orleans pelicans
+911,1993,Charlotte Coliseum              ,new orleans pelicans
+912,1994,Charlotte Coliseum              ,new orleans pelicans
+913,1995,Charlotte Coliseum              ,new orleans pelicans
+914,1996,Charlotte Coliseum              ,new orleans pelicans
+915,1997,Charlotte Coliseum              ,new orleans pelicans
+916,1998,Charlotte Coliseum              ,new orleans pelicans
+917,1999,Charlotte Coliseum              ,new orleans pelicans
+918,2000,Charlotte Coliseum              ,new orleans pelicans
+919,2002,New Orleans Arena         ,new orleans pelicans
+920,2003,New Orleans Arena         ,new orleans pelicans
+921,2004,New Orleans Arena         ,new orleans pelicans
+922,2005,New Orleans Arena         ,new orleans pelicans
+923,2006,New Orleans Arena         ,new orleans pelicans
+924,2007,New Orleans Arena         ,new orleans pelicans
+925,2008,New Orleans Arena         ,new orleans pelicans
+926,2009,New Orleans Arena         ,new orleans pelicans
+927,2010,New Orleans Arena         ,new orleans pelicans
+928,2011,New Orleans Arena         ,new orleans pelicans
+929,2012,New Orleans Arena         ,new orleans pelicans
+930,2013,New Orleans Arena         ,new orleans pelicans
+931,2014,Smoothie King Center     ,new orleans pelicans
+932,2015,Smoothie King Center     ,new orleans pelicans
+933,2016,Smoothie King Center     ,new orleans pelicans
+934,2017,Smoothie King Center     ,new orleans pelicans
+935,2018,Smoothie King Center     ,new orleans pelicans
+936,1946,Madison Square Garden III     ,new york knicks
+937,1947,Madison Square Garden III     ,new york knicks
+938,1948,Madison Square Garden III     ,new york knicks
+939,1949,Madison Square Garden III     ,new york knicks
+940,1950,Madison Square Garden III     ,new york knicks
+941,1951,Madison Square Garden III     ,new york knicks
+942,1952,Madison Square Garden III     ,new york knicks
+943,1953,Madison Square Garden III     ,new york knicks
+944,1954,Madison Square Garden III     ,new york knicks
+945,1955,Madison Square Garden III     ,new york knicks
+946,1956,Madison Square Garden III     ,new york knicks
+947,1957,Madison Square Garden III     ,new york knicks
+948,1958,Madison Square Garden III     ,new york knicks
+949,1959,Madison Square Garden III     ,new york knicks
+950,1960,Madison Square Garden III     ,new york knicks
+951,1961,Madison Square Garden III     ,new york knicks
+952,1962,Madison Square Garden III     ,new york knicks
+953,1963,Madison Square Garden III     ,new york knicks
+954,1964,Madison Square Garden III     ,new york knicks
+955,1965,Madison Square Garden III     ,new york knicks
+956,1966,Madison Square Garden III     ,new york knicks
+957,1967,Madison Square Garden III     ,new york knicks
+958,1968,Madison Square Garden IV    ,new york knicks
+959,1969,Madison Square Garden IV    ,new york knicks
+960,1970,Madison Square Garden IV    ,new york knicks
+961,1971,Madison Square Garden IV    ,new york knicks
+962,1972,Madison Square Garden IV    ,new york knicks
+963,1973,Madison Square Garden IV    ,new york knicks
+964,1974,Madison Square Garden IV    ,new york knicks
+965,1975,Madison Square Garden IV    ,new york knicks
+966,1976,Madison Square Garden IV    ,new york knicks
+967,1977,Madison Square Garden IV    ,new york knicks
+968,1978,Madison Square Garden IV    ,new york knicks
+969,1979,Madison Square Garden IV    ,new york knicks
+970,1980,Madison Square Garden IV    ,new york knicks
+971,1981,Madison Square Garden IV    ,new york knicks
+972,1982,Madison Square Garden IV    ,new york knicks
+973,1983,Madison Square Garden IV    ,new york knicks
+974,1984,Madison Square Garden IV    ,new york knicks
+975,1985,Madison Square Garden IV    ,new york knicks
+976,1986,Madison Square Garden IV    ,new york knicks
+977,1987,Madison Square Garden IV    ,new york knicks
+978,1988,Madison Square Garden IV    ,new york knicks
+979,1989,Madison Square Garden IV    ,new york knicks
+980,1990,Madison Square Garden IV    ,new york knicks
+981,1991,Madison Square Garden IV    ,new york knicks
+982,1992,Madison Square Garden IV    ,new york knicks
+983,1993,Madison Square Garden IV    ,new york knicks
+984,1994,Madison Square Garden IV    ,new york knicks
+985,1995,Madison Square Garden IV    ,new york knicks
+986,1996,Madison Square Garden IV    ,new york knicks
+987,1997,Madison Square Garden IV    ,new york knicks
+988,1998,Madison Square Garden IV    ,new york knicks
+989,1999,Madison Square Garden IV    ,new york knicks
+990,2000,Madison Square Garden IV    ,new york knicks
+991,2001,Madison Square Garden IV    ,new york knicks
+992,2002,Madison Square Garden IV    ,new york knicks
+993,2003,Madison Square Garden IV    ,new york knicks
+994,2004,Madison Square Garden IV    ,new york knicks
+995,2005,Madison Square Garden IV    ,new york knicks
+996,2006,Madison Square Garden IV    ,new york knicks
+997,2007,Madison Square Garden IV    ,new york knicks
+998,2008,Madison Square Garden IV    ,new york knicks
+999,2009,Madison Square Garden IV    ,new york knicks
+1000,2010,Madison Square Garden IV    ,new york knicks
+1001,2011,Madison Square Garden IV    ,new york knicks
+1002,2012,Madison Square Garden IV    ,new york knicks
+1003,2013,Madison Square Garden IV    ,new york knicks
+1004,2014,Madison Square Garden IV    ,new york knicks
+1005,2015,Madison Square Garden IV    ,new york knicks
+1006,2016,Madison Square Garden IV    ,new york knicks
+1007,2017,Madison Square Garden IV    ,new york knicks
+1008,2018,Madison Square Garden IV    ,new york knicks
+1009,1989,Orlando Arena                     ,orlando magic
+1010,1990,Orlando Arena                     ,orlando magic
+1011,1991,Orlando Arena                     ,orlando magic
+1012,1992,Orlando Arena                     ,orlando magic
+1013,1993,Orlando Arena                     ,orlando magic
+1014,1994,Orlando Arena                     ,orlando magic
+1015,1995,Orlando Arena                     ,orlando magic
+1016,1996,Orlando Arena                     ,orlando magic
+1017,1997,TD Waterhouse Arena               ,orlando magic
+1018,1998,TD Waterhouse Arena               ,orlando magic
+1019,1999,TD Waterhouse Arena               ,orlando magic
+1020,2000,TD Waterhouse Arena               ,orlando magic
+1021,2001,TD Waterhouse Arena               ,orlando magic
+1022,2002,TD Waterhouse Arena               ,orlando magic
+1023,2003,TD Waterhouse Arena               ,orlando magic
+1024,2004,TD Waterhouse Arena               ,orlando magic
+1025,2005,TD Waterhouse Arena               ,orlando magic
+1026,2006,TD Waterhouse Arena               ,orlando magic
+1027,2007,TD Waterhouse Arena               ,orlando magic
+1028,2008,TD Waterhouse Arena               ,orlando magic
+1029,2009,TD Waterhouse Arena               ,orlando magic
+1030,2010,Amway Center                      ,orlando magic
+1031,2011,Amway Center                      ,orlando magic
+1032,2012,Amway Center                      ,orlando magic
+1033,2013,Amway Center                      ,orlando magic
+1034,2014,Amway Center                      ,orlando magic
+1035,2015,Amway Center                      ,orlando magic
+1036,2016,Amway Center                      ,orlando magic
+1037,2017,Amway Center                      ,orlando magic
+1038,2018,Amway Center                      ,orlando magic
+1039,1949,State Fair Coliseum               ,philadelphia sixers
+1040,1950,State Fair Coliseum               ,philadelphia sixers
+1041,1951,Onondaga County War Memorial      ,philadelphia sixers
+1042,1952,Onondaga County War Memorial      ,philadelphia sixers
+1043,1953,Onondaga County War Memorial      ,philadelphia sixers
+1044,1954,Onondaga County War Memorial      ,philadelphia sixers
+1045,1955,Onondaga County War Memorial      ,philadelphia sixers
+1046,1956,Onondaga County War Memorial      ,philadelphia sixers
+1047,1957,Onondaga County War Memorial      ,philadelphia sixers
+1048,1958,Onondaga County War Memorial      ,philadelphia sixers
+1049,1959,Onondaga County War Memorial      ,philadelphia sixers
+1050,1960,Onondaga County War Memorial      ,philadelphia sixers
+1051,1961,Onondaga County War Memorial      ,philadelphia sixers
+1052,1962,Onondaga County War Memorial      ,philadelphia sixers
+1053,1963,Convention Hall               ,philadelphia sixers
+1054,1964,Convention Hall               ,philadelphia sixers
+1055,1965,Convention Hall               ,philadelphia sixers
+1056,1966,Convention Hall               ,philadelphia sixers
+1057,1967,First Union Spectrum          ,philadelphia sixers
+1058,1968,First Union Spectrum          ,philadelphia sixers
+1059,1969,First Union Spectrum          ,philadelphia sixers
+1060,1970,First Union Spectrum          ,philadelphia sixers
+1061,1971,First Union Spectrum          ,philadelphia sixers
+1062,1972,First Union Spectrum          ,philadelphia sixers
+1063,1973,First Union Spectrum          ,philadelphia sixers
+1064,1974,First Union Spectrum          ,philadelphia sixers
+1065,1975,First Union Spectrum          ,philadelphia sixers
+1066,1976,First Union Spectrum          ,philadelphia sixers
+1067,1977,First Union Spectrum          ,philadelphia sixers
+1068,1978,First Union Spectrum          ,philadelphia sixers
+1069,1979,First Union Spectrum          ,philadelphia sixers
+1070,1980,First Union Spectrum          ,philadelphia sixers
+1071,1981,First Union Spectrum          ,philadelphia sixers
+1072,1982,First Union Spectrum          ,philadelphia sixers
+1073,1983,First Union Spectrum          ,philadelphia sixers
+1074,1984,First Union Spectrum          ,philadelphia sixers
+1075,1985,First Union Spectrum          ,philadelphia sixers
+1076,1986,First Union Spectrum          ,philadelphia sixers
+1077,1987,First Union Spectrum          ,philadelphia sixers
+1078,1988,First Union Spectrum          ,philadelphia sixers
+1079,1989,First Union Spectrum          ,philadelphia sixers
+1080,1990,First Union Spectrum          ,philadelphia sixers
+1081,1991,First Union Spectrum          ,philadelphia sixers
+1082,1992,First Union Spectrum          ,philadelphia sixers
+1083,1993,First Union Spectrum          ,philadelphia sixers
+1084,1994,First Union Spectrum          ,philadelphia sixers
+1085,1995,First Union Spectrum          ,philadelphia sixers
+1086,1996,First Union Center            ,philadelphia sixers
+1087,1997,First Union Center            ,philadelphia sixers
+1088,1998,First Union Center            ,philadelphia sixers
+1089,1999,First Union Center            ,philadelphia sixers
+1090,2000,First Union Center            ,philadelphia sixers
+1091,2001,First Union Center            ,philadelphia sixers
+1092,2002,First Union Center            ,philadelphia sixers
+1093,2003,Wahcovia center                 ,philadelphia sixers
+1094,2004,Wahcovia center                 ,philadelphia sixers
+1095,2005,Wahcovia center                 ,philadelphia sixers
+1096,2006,Wahcovia center                 ,philadelphia sixers
+1097,2007,Wahcovia center                 ,philadelphia sixers
+1098,2008,Wahcovia center                 ,philadelphia sixers
+1099,2009,Wahcovia center                 ,philadelphia sixers
+1100,2010,Wells Fargo Center            ,philadelphia sixers
+1101,2011,Wells Fargo Center            ,philadelphia sixers
+1102,2012,Wells Fargo Center            ,philadelphia sixers
+1103,2013,Wells Fargo Center            ,philadelphia sixers
+1104,2014,Wells Fargo Center            ,philadelphia sixers
+1105,2015,Wells Fargo Center            ,philadelphia sixers
+1106,2016,Wells Fargo Center            ,philadelphia sixers
+1107,2017,Wells Fargo Center            ,philadelphia sixers
+1108,2018,Wells Fargo Center            ,philadelphia sixers
+1109,1968,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1110,1969,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1111,1970,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1112,1971,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1113,1972,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1114,1973,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1115,1974,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1116,1975,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1117,1976,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1118,1977,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1119,1978,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1120,1979,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1121,1980,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1122,1981,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1123,1982,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1124,1983,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1125,1984,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1126,1985,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1127,1986,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1128,1987,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1129,1988,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1130,1989,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1131,1990,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1132,1991,Arizona Veterans' Memorial Coliseum   ,phoenix suns
+1133,1992,America West Arena                ,phoenix suns
+1134,1993,America West Arena                ,phoenix suns
+1135,1994,America West Arena                ,phoenix suns
+1136,1995,America West Arena                ,phoenix suns
+1137,1996,America West Arena                ,phoenix suns
+1138,1997,America West Arena                ,phoenix suns
+1139,1998,America West Arena                ,phoenix suns
+1140,1999,America West Arena                ,phoenix suns
+1141,2000,America West Arena                ,phoenix suns
+1142,2001,America West Arena                ,phoenix suns
+1143,2002,America West Arena                ,phoenix suns
+1144,2003,America West Arena                ,phoenix suns
+1145,2004,America West Arena                ,phoenix suns
+1146,2005,America West Arena                ,phoenix suns
+1147,2006,America West Arena                ,phoenix suns
+1148,2007,America West Arena                ,phoenix suns
+1149,2008,America West Arena                ,phoenix suns
+1150,2009,America West Arena                ,phoenix suns
+1151,2010,America West Arena                ,phoenix suns
+1152,2011,America West Arena                ,phoenix suns
+1153,2012,America West Arena                ,phoenix suns
+1154,2013,America West Arena                ,phoenix suns
+1155,2014,America West Arena                ,phoenix suns
+1156,2015,Talking Stick Resort Arena        ,phoenix suns
+1157,2016,Talking Stick Resort Arena        ,phoenix suns
+1158,2017,Talking Stick Resort Arena        ,phoenix suns
+1159,2018,Talking Stick Resort Arena        ,phoenix suns
+1160,1970,Memorial Coliseum                ,portland trailblazers
+1161,1971,Memorial Coliseum                ,portland trailblazers
+1162,1972,Memorial Coliseum                ,portland trailblazers
+1163,1973,Memorial Coliseum                ,portland trailblazers
+1164,1974,Memorial Coliseum                ,portland trailblazers
+1165,1975,Memorial Coliseum                ,portland trailblazers
+1166,1976,Memorial Coliseum                ,portland trailblazers
+1167,1977,Memorial Coliseum                ,portland trailblazers
+1168,1978,Memorial Coliseum                ,portland trailblazers
+1169,1979,Memorial Coliseum                ,portland trailblazers
+1170,1980,Memorial Coliseum                ,portland trailblazers
+1171,1981,Memorial Coliseum                ,portland trailblazers
+1172,1982,Memorial Coliseum                ,portland trailblazers
+1173,1983,Memorial Coliseum                ,portland trailblazers
+1174,1984,Memorial Coliseum                ,portland trailblazers
+1175,1985,Memorial Coliseum                ,portland trailblazers
+1176,1986,Memorial Coliseum                ,portland trailblazers
+1177,1987,Memorial Coliseum                ,portland trailblazers
+1178,1988,Memorial Coliseum                ,portland trailblazers
+1179,1989,Memorial Coliseum                ,portland trailblazers
+1180,1990,Memorial Coliseum                ,portland trailblazers
+1181,1991,Memorial Coliseum                ,portland trailblazers
+1182,1992,Memorial Coliseum                ,portland trailblazers
+1183,1993,Memorial Coliseum                ,portland trailblazers
+1184,1994,Memorial Coliseum                ,portland trailblazers
+1185,1995,Rose Garden                      ,portland trailblazers
+1186,1996,Rose Garden                      ,portland trailblazers
+1187,1997,Rose Garden                      ,portland trailblazers
+1188,1998,Rose Garden                      ,portland trailblazers
+1189,1999,Rose Garden                      ,portland trailblazers
+1190,2000,Rose Garden                      ,portland trailblazers
+1191,2001,Rose Garden                      ,portland trailblazers
+1192,2002,Rose Garden                      ,portland trailblazers
+1193,2003,Rose Garden                      ,portland trailblazers
+1194,2004,Rose Garden                      ,portland trailblazers
+1195,2005,Rose Garden                      ,portland trailblazers
+1196,2006,Rose Garden                      ,portland trailblazers
+1197,2007,Rose Garden                      ,portland trailblazers
+1198,2008,Rose Garden                      ,portland trailblazers
+1199,2009,Rose Garden                      ,portland trailblazers
+1200,2010,Rose Garden                      ,portland trailblazers
+1201,2011,Rose Garden                      ,portland trailblazers
+1202,2012,Rose Garden                      ,portland trailblazers
+1203,2013,Rose Garden                      ,portland trailblazers
+1204,2014,Moda Center                      ,portland trailblazers
+1205,2015,Moda Center                      ,portland trailblazers
+1206,2016,Moda Center                      ,portland trailblazers
+1207,2017,Moda Center                      ,portland trailblazers
+1208,2018,Moda Center                      ,portland trailblazers
+1209,1948,Edgarton Park Arena              ,sacramento kings
+1210,1949,Edgarton Park Arena              ,sacramento kings
+1211,1950,Edgarton Park Arena              ,sacramento kings
+1212,1951,Edgarton Park Arena              ,sacramento kings
+1213,1952,Edgarton Park Arena              ,sacramento kings
+1214,1953,Edgarton Park Arena              ,sacramento kings
+1215,1954,Edgarton Park Arena              ,sacramento kings
+1216,1955,Rochester War Memorial          ,sacramento kings
+1217,1956,Rochester War Memorial          ,sacramento kings
+1218,1957,Rochester War Memorial          ,sacramento kings
+1219,1958,Cincinnati Gardens             ,sacramento kings
+1220,1959,Cincinnati Gardens             ,sacramento kings
+1221,1960,Cincinnati Gardens             ,sacramento kings
+1222,1961,Cincinnati Gardens             ,sacramento kings
+1223,1962,Cincinnati Gardens             ,sacramento kings
+1224,1963,Cincinnati Gardens             ,sacramento kings
+1225,1964,Cincinnati Gardens             ,sacramento kings
+1226,1965,Cincinnati Gardens             ,sacramento kings
+1227,1966,Cincinnati Gardens             ,sacramento kings
+1228,1967,Cincinnati Gardens             ,sacramento kings
+1229,1968,Cincinnati Gardens             ,sacramento kings
+1230,1969,Cincinnati Gardens             ,sacramento kings
+1231,1970,Cincinnati Gardens             ,sacramento kings
+1232,1971,Cincinnati Gardens             ,sacramento kings
+1233,1972,Municipal Auditorium      ,sacramento kings
+1234,1973,Municipal Auditorium      ,sacramento kings
+1235,1974,Kemper Arena           ,sacramento kings
+1236,1975,Kemper Arena           ,sacramento kings
+1237,1976,Kemper Arena           ,sacramento kings
+1238,1977,Kemper Arena           ,sacramento kings
+1239,1978,Kemper Arena               ,sacramento kings
+1240,1979,Kemper Arena               ,sacramento kings
+1241,1980,Kemper Arena               ,sacramento kings
+1242,1981,Kemper Arena               ,sacramento kings
+1243,1982,Kemper Arena               ,sacramento kings
+1244,1983,Kemper Arena               ,sacramento kings
+1245,1984,Kemper Arena               ,sacramento kings
+1246,1985,ARCO Arena I                   ,sacramento kings
+1247,1986,ARCO Arena I                   ,sacramento kings
+1248,1987,ARCO Arena I                   ,sacramento kings
+1249,1988,ARCO Arena II                  ,sacramento kings
+1250,1989,ARCO Arena II                  ,sacramento kings
+1251,1990,ARCO Arena II                  ,sacramento kings
+1252,1991,ARCO Arena II                  ,sacramento kings
+1253,1992,ARCO Arena II                  ,sacramento kings
+1254,1993,ARCO Arena II                  ,sacramento kings
+1255,1994,ARCO Arena II                  ,sacramento kings
+1256,1995,ARCO Arena II                  ,sacramento kings
+1257,1996,ARCO Arena II                  ,sacramento kings
+1258,1997,ARCO Arena II                  ,sacramento kings
+1259,1998,ARCO Arena II                  ,sacramento kings
+1260,1999,ARCO Arena II                  ,sacramento kings
+1261,2000,ARCO Arena II                  ,sacramento kings
+1262,2001,ARCO Arena II                  ,sacramento kings
+1263,2002,ARCO Arena II                  ,sacramento kings
+1264,2003,ARCO Arena II                  ,sacramento kings
+1265,2004,ARCO Arena II                  ,sacramento kings
+1266,2005,ARCO Arena II                  ,sacramento kings
+1267,2006,ARCO Arena II                  ,sacramento kings
+1268,2007,ARCO Arena II                  ,sacramento kings
+1269,2008,ARCO Arena II                  ,sacramento kings
+1270,2009,ARCO Arena II                  ,sacramento kings
+1271,2010,ARCO Arena II                  ,sacramento kings
+1272,2011,ARCO Arena II                  ,sacramento kings
+1273,2012,ARCO Arena II                  ,sacramento kings
+1274,2013,Sleep Train Arena              ,sacramento kings
+1275,2014,Sleep Train Arena              ,sacramento kings
+1276,2015,Sleep Train Arena              ,sacramento kings
+1277,2016,Sleep Train Arena              ,sacramento kings
+1278,2017,Sleep Train Arena              ,sacramento kings
+1279,2018,Sleep Train Arena              ,sacramento kings
+1280,1967,Memorial Auditorium                ,san antoni spurs
+1281,1968,Memorial Auditorium                ,san antoni spurs
+1282,1969,Memorial Auditorium                ,san antoni spurs
+1283,1970,Moody Coliseum                ,san antoni spurs
+1284,1971,Moody Coliseum                     ,san antoni spurs
+1285,1972,Moody Coliseum                     ,san antoni spurs
+1286,1973,HemisFair Arena            ,san antoni spurs
+1287,1974,HemisFair Arena            ,san antoni spurs
+1288,1975,HemisFair Arena            ,san antoni spurs
+1289,1976,HemisFair Arena            ,san antoni spurs
+1290,1977,HemisFair Arena            ,san antoni spurs
+1291,1978,HemisFair Arena            ,san antoni spurs
+1292,1979,HemisFair Arena            ,san antoni spurs
+1293,1980,HemisFair Arena            ,san antoni spurs
+1294,1981,HemisFair Arena            ,san antoni spurs
+1295,1982,HemisFair Arena            ,san antoni spurs
+1296,1983,HemisFair Arena            ,san antoni spurs
+1297,1984,HemisFair Arena            ,san antoni spurs
+1298,1985,HemisFair Arena            ,san antoni spurs
+1299,1986,HemisFair Arena            ,san antoni spurs
+1300,1987,HemisFair Arena            ,san antoni spurs
+1301,1988,HemisFair Arena            ,san antoni spurs
+1302,1989,HemisFair Arena            ,san antoni spurs
+1303,1990,HemisFair Arena            ,san antoni spurs
+1304,1991,HemisFair Arena            ,san antoni spurs
+1305,1992,HemisFair Arena            ,san antoni spurs
+1306,1993,Alamodome                ,san antoni spurs
+1307,1994,Alamodome                ,san antoni spurs
+1308,1995,Alamodome                ,san antoni spurs
+1309,1996,Alamodome                ,san antoni spurs
+1310,1997,Alamodome                ,san antoni spurs
+1311,1998,Alamodome                ,san antoni spurs
+1312,1999,Alamodome                ,san antoni spurs
+1313,2000,Alamodome                ,san antoni spurs
+1314,2001,Alamodome                ,san antoni spurs
+1315,2002,SBC Center              ,san antoni spurs
+1316,2003,SBC Center              ,san antoni spurs
+1317,2004,SBC Center              ,san antoni spurs
+1318,2005,SBC Center              ,san antoni spurs
+1319,2006,SBC Center              ,san antoni spurs
+1320,2007,SBC Center              ,san antoni spurs
+1321,2008,SBC Center              ,san antoni spurs
+1322,2009,SBC Center              ,san antoni spurs
+1323,2010,AT&T Center               ,san antoni spurs
+1324,2011,AT&T Center               ,san antoni spurs
+1325,2012,AT&T Center               ,san antoni spurs
+1326,2013,AT&T Center               ,san antoni spurs
+1327,2014,AT&T Center               ,san antoni spurs
+1328,2015,AT&T Center               ,san antoni spurs
+1329,2016,AT&T Center               ,san antoni spurs
+1330,2017,AT&T Center               ,san antoni spurs
+1331,2018,AT&T Center               ,san antoni spurs
+1332,1967,Seattle Center Coliseum          ,oklahoma city thunder
+1333,1968,Seattle Center Coliseum          ,oklahoma city thunder
+1334,1969,Seattle Center Coliseum          ,oklahoma city thunder
+1335,1970,Seattle Center Coliseum          ,oklahoma city thunder
+1336,1971,Seattle Center Coliseum          ,oklahoma city thunder
+1337,1972,Seattle Center Coliseum          ,oklahoma city thunder
+1338,1973,Seattle Center Coliseum          ,oklahoma city thunder
+1339,1974,Seattle Center Coliseum          ,oklahoma city thunder
+1340,1975,Seattle Center Coliseum          ,oklahoma city thunder
+1341,1976,Seattle Center Coliseum          ,oklahoma city thunder
+1342,1977,Seattle Center Coliseum          ,oklahoma city thunder
+1343,1978,Kingdome                         ,oklahoma city thunder
+1344,1979,Kingdome                         ,oklahoma city thunder
+1345,1980,Kingdome                         ,oklahoma city thunder
+1346,1981,Kingdome                         ,oklahoma city thunder
+1347,1982,Kingdome                         ,oklahoma city thunder
+1348,1983,Kingdome                         ,oklahoma city thunder
+1349,1984,Kingdome                         ,oklahoma city thunder
+1350,1985,Seattle Center Coliseum          ,oklahoma city thunder
+1351,1986,Seattle Center Coliseum          ,oklahoma city thunder
+1352,1987,Seattle Center Coliseum          ,oklahoma city thunder
+1353,1988,Seattle Center Coliseum          ,oklahoma city thunder
+1354,1989,Seattle Center Coliseum          ,oklahoma city thunder
+1355,1990,Seattle Center Coliseum          ,oklahoma city thunder
+1356,1991,Seattle Center Coliseum          ,oklahoma city thunder
+1357,1992,Seattle Center Coliseum          ,oklahoma city thunder
+1358,1993,Seattle Center Coliseum          ,oklahoma city thunder
+1359,1994,Tacoma Dome                       ,oklahoma city thunder
+1360,1995,Key Arena                        ,oklahoma city thunder
+1361,1996,Key Arena                        ,oklahoma city thunder
+1362,1997,Key Arena                        ,oklahoma city thunder
+1363,1998,Key Arena                        ,oklahoma city thunder
+1364,1999,Key Arena                        ,oklahoma city thunder
+1365,2000,Key Arena                        ,oklahoma city thunder
+1366,2001,Key Arena                        ,oklahoma city thunder
+1367,2002,Key Arena                        ,oklahoma city thunder
+1368,2003,Key Arena                        ,oklahoma city thunder
+1369,2004,Key Arena                        ,oklahoma city thunder
+1370,2005,Key Arena                        ,oklahoma city thunder
+1371,2006,Key Arena                        ,oklahoma city thunder
+1372,2007,Key Arena                        ,oklahoma city thunder
+1373,2008,Chesapeake Energy Arena         ,oklahoma city thunder
+1374,2009,Chesapeake Energy Arena         ,oklahoma city thunder
+1375,2010,Chesapeake Energy Arena         ,oklahoma city thunder
+1376,2011,Chesapeake Energy Arena         ,oklahoma city thunder
+1377,2012,Chesapeake Energy Arena         ,oklahoma city thunder
+1378,2013,Chesapeake Energy Arena         ,oklahoma city thunder
+1379,2014,Chesapeake Energy Arena         ,oklahoma city thunder
+1380,2015,Chesapeake Energy Arena         ,oklahoma city thunder
+1381,2016,Chesapeake Energy Arena         ,oklahoma city thunder
+1382,2017,Chesapeake Energy Arena         ,oklahoma city thunder
+1383,2018,Chesapeake Energy Arena         ,oklahoma city thunder
+1384,1995,SkyDome                           ,toronto raptors
+1385,1996,SkyDome                           ,toronto raptors
+1386,1997,SkyDome                           ,toronto raptors
+1387,1998,SkyDome                           ,toronto raptors
+1388,1999,Air Canada Centre                ,toronto raptors
+1389,2000,Air Canada Centre                ,toronto raptors
+1390,2001,Air Canada Centre                ,toronto raptors
+1391,2002,Air Canada Centre                ,toronto raptors
+1392,2003,Air Canada Centre                ,toronto raptors
+1393,2004,Air Canada Centre                ,toronto raptors
+1394,2005,Air Canada Centre                ,toronto raptors
+1395,2006,Air Canada Centre                ,toronto raptors
+1396,2007,Air Canada Centre                ,toronto raptors
+1397,2008,Air Canada Centre                ,toronto raptors
+1398,2009,Air Canada Centre                ,toronto raptors
+1399,2010,Air Canada Centre                ,toronto raptors
+1400,2011,Air Canada Centre                ,toronto raptors
+1401,2012,Air Canada Centre                ,toronto raptors
+1402,2013,Air Canada Centre                ,toronto raptors
+1403,2014,Air Canada Centre                ,toronto raptors
+1404,2015,Air Canada Centre                ,toronto raptors
+1405,2016,Air Canada Centre                ,toronto raptors
+1406,2017,Air Canada Centre                ,toronto raptors
+1407,2018,Air Canada Centre                ,toronto raptors
+1408,1974,Municipal Auditorium       ,utah jazz
+1409,1975,Superdome                      ,utah jazz
+1410,1976,Superdome                      ,utah jazz
+1411,1977,Superdome                      ,utah jazz
+1412,1978,Superdome                      ,utah jazz
+1413,1979,Salt Palace                ,utah jazz
+1414,1980,Salt Palace                ,utah jazz
+1415,1981,Salt Palace                ,utah jazz
+1416,1982,Salt Palace                ,utah jazz
+1417,1983,Salt Palace                ,utah jazz
+1418,1984,Salt Palace                ,utah jazz
+1419,1985,Salt Palace                ,utah jazz
+1420,1986,Salt Palace                ,utah jazz
+1421,1987,Salt Palace                ,utah jazz
+1422,1988,Salt Palace                ,utah jazz
+1423,1989,Salt Palace                ,utah jazz
+1424,1990,Salt Palace                ,utah jazz
+1425,1991,Delta Center                 ,utah jazz
+1426,1992,Delta Center                 ,utah jazz
+1427,1993,Delta Center                 ,utah jazz
+1428,1994,Delta Center                 ,utah jazz
+1429,1995,Delta Center                 ,utah jazz
+1430,1996,Delta Center                 ,utah jazz
+1431,1997,Delta Center                 ,utah jazz
+1432,1998,Delta Center                 ,utah jazz
+1433,1999,Delta Center                 ,utah jazz
+1434,2000,Delta Center                 ,utah jazz
+1435,2001,Delta Center                 ,utah jazz
+1436,2002,Delta Center                 ,utah jazz
+1437,2003,Delta Center                 ,utah jazz
+1438,2004,Delta Center                 ,utah jazz
+1439,2005,Delta Center                 ,utah jazz
+1440,2006,Energy Solutions Arena      ,utah jazz
+1441,2007,Energy Solutions Arena      ,utah jazz
+1442,2008,Energy Solutions Arena      ,utah jazz
+1443,2009,Energy Solutions Arena      ,utah jazz
+1444,2010,Energy Solutions Arena      ,utah jazz
+1445,2011,Energy Solutions Arena      ,utah jazz
+1446,2012,Energy Solutions Arena      ,utah jazz
+1447,2013,Energy Solutions Arena      ,utah jazz
+1448,2014,Energy Solutions Arena      ,utah jazz
+1449,2015,Vivint Smart Home Arena     ,utah jazz
+1450,2016,Vivint Smart Home Arena     ,utah jazz
+1451,2017,Vivint Smart Home Arena     ,utah jazz
+1452,2018,Vivint Smart Home Arena     ,utah jazz
+1453,1961,Chicago Amphitheater             ,washington wizards
+1454,1962,Chicago Coliseum                  ,washington wizards
+1455,1963,Baltimore Civic Center         ,washington wizards
+1456,1964,Baltimore Civic Center         ,washington wizards
+1457,1965,Baltimore Civic Center         ,washington wizards
+1458,1966,Baltimore Civic Center         ,washington wizards
+1459,1967,Baltimore Civic Center         ,washington wizards
+1460,1968,Baltimore Civic Center         ,washington wizards
+1461,1969,Baltimore Civic Center         ,washington wizards
+1462,1970,Baltimore Civic Center         ,washington wizards
+1463,1971,Baltimore Civic Center         ,washington wizards
+1464,1972,Baltimore Civic Center         ,washington wizards
+1465,1973,USAir Arena                     ,washington wizards
+1466,1974,USAir Arena                     ,washington wizards
+1467,1975,USAir Arena                     ,washington wizards
+1468,1976,USAir Arena                     ,washington wizards
+1469,1977,USAir Arena                     ,washington wizards
+1470,1978,USAir Arena                     ,washington wizards
+1471,1979,USAir Arena                     ,washington wizards
+1472,1980,USAir Arena                     ,washington wizards
+1473,1981,USAir Arena                     ,washington wizards
+1474,1982,USAir Arena                     ,washington wizards
+1475,1983,USAir Arena                     ,washington wizards
+1476,1984,USAir Arena                     ,washington wizards
+1477,1985,USAir Arena                     ,washington wizards
+1478,1986,USAir Arena                     ,washington wizards
+1479,1987,USAir Arena                     ,washington wizards
+1480,1988,USAir Arena                     ,washington wizards
+1481,1989,USAir Arena                     ,washington wizards
+1482,1990,USAir Arena                     ,washington wizards
+1483,1991,USAir Arena                     ,washington wizards
+1484,1992,USAir Arena                     ,washington wizards
+1485,1993,USAir Arena                     ,washington wizards
+1486,1994,USAir Arena                     ,washington wizards
+1487,1995,USAir Arena                     ,washington wizards
+1488,1996,USAir Arena                     ,washington wizards
+1489,1997,MCI Center                    ,washington wizards
+1490,1998,MCI Center                    ,washington wizards
+1491,1999,MCI Center                    ,washington wizards
+1492,2000,MCI Center                    ,washington wizards
+1493,2001,MCI Center                    ,washington wizards
+1494,2002,MCI Center                    ,washington wizards
+1495,2003,MCI Center                    ,washington wizards
+1496,2004,MCI Center                    ,washington wizards
+1497,2005,Verizon Center               ,washington wizards
+1498,2006,Verizon Center               ,washington wizards
+1499,2007,Verizon Center               ,washington wizards
+1500,2008,Verizon Center               ,washington wizards
+1501,2009,Verizon Center               ,washington wizards
+1502,2010,Verizon Center               ,washington wizards
+1503,2011,Verizon Center               ,washington wizards
+1504,2012,Verizon Center               ,washington wizards
+1505,2013,Verizon Center               ,washington wizards
+1506,2014,Verizon Center               ,washington wizards
+1507,2015,Verizon Center               ,washington wizards
+1508,2016,Verizon Center               ,washington wizards
+1509,2017,Verizon Center               ,washington wizards
+1510,2018,Verizon Center               ,washington wizards
