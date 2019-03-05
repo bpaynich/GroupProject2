@@ -63,7 +63,7 @@
 										<div class="form-group">
 										  <select class="form-control" name="team">
 												<option value="">select team</option>
-												{% for Tm in team_list %}	
+												{% for Tm in team_list %}
 												<option value="{{ Tm }}">{{ Tm }}</option>
 												{% endfor %}
 										  </select>
@@ -87,8 +87,11 @@
 								<button type="submit" class="btn btn-primary">
 									Submit
 								</button>
-							</form><br/><br/>
-									<h3>
+							</form>
+							<br/><br/>
+						</div>
+						<div class="col-md-10"><br/><br/>
+								<h3>
 										Arena Address
 									</h3> 
 									<address>
@@ -96,21 +99,18 @@
 										 {{ arena_street}}<br /> 
 										 {{ arena_city }}, {{ arena_state}} {{ arena_zip }}<br />
 									</address>
-							<br/><br/>
-						</div>
-						<div class="col-md-10"><br/><br/>
 									<br/>
 									<h3>
-										{{ team_year }} {{ full_team_name }} - Arena Location 
+											Arena Location
 											<br/>
 										</h3>
-										<div id="map" style="height: 300px;"></div>
+										<div id="map" style="height: 250px;"></div>
 										<script type="text/javascript">
 											// The first parameter are the coordinates of the center of the map
 											// The second parameter is the zoom level
-											var latt = {{ lat_c }}
-											var longg = {{ long_c }}
-											var map = L.map('map').setView([latt, longg], 17);
+											var latt = {{ lat }}
+											var longg = {{ longitude }}
+											var map = L.map('map').setView([latt, longg], 16);
 											// {s}, {z}, {x} and {y} are placeholders for map tiles
 											// {x} and {y} are the x/y of where you are on the map
 											// {z} is the zoom level
@@ -120,12 +120,12 @@
 											});
 											// Now add the layer onto the map
 											map.addLayer(layer);
-											L.marker([{{ lat_c }}, {{ long_c }}]).addTo(map)
-  												.bindPopup("<strong>{{ arena_name }}</strong><br/>{{ arena_street}}<br />{{ arena_city }}, {{ arena_state}} {{ arena_zip }}<br />").openPopup();
+											L.marker([{{ lat }}, {{ longitude }}]).addTo(map)
+  												.bindPopup("<strong>{{ arena_name }}</strong>").openPopup();
 										  </script>
 										  
 										<h3><br/>				
-								Team Roster - {{ team_year }} {{ full_team_name }}
+								Team Roster - {{ team_year }} {{ Tm }}
 								<br/>
 							</h3>
 								<table class="table table-striped table-sm">

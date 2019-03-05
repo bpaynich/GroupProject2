@@ -1,136 +1,132 @@
-,StartYear,EndYear,Venue,City,Capacity
-11,1949,51,Wheaton Field House                ,"Moline,IL","6,000"
-12,1951,55,Milwaukee Arena                ,"Milwaukee,WI","11,000"
-13,1955,68,Kiel Auditorium              St.   ,"Louis,MO","10,000"
-14,1968,72,Alexander Memorial Coliseum       ,"Atlanta,GA","7,166"
-15,1972,97,Omni Coliseum                     ,"Atlanta,GA","6,378"
-16,1997,99,Georgia Dome                     ,"Atlanta,GA","21,570"
-18,1999,2019, Philips Arena                    ,"Atlanta,GA","20,000"
-27,1946,95,Boston Garden                     ,"Boston,MA","14,890"
-28,1995,05,Fleet Center                      ,"Boston,MA","18,624"
-29,2005,2019, TD Garden                         ,"Boston,MA","18,624"
-38,2004,2019, Time Warner Cable Arena          ,"Charlotte,NC","19,077"
-46,1966,67,Chicago Amphitheater             ,"Chicago,IL","11,002"
-47,1967,94,Chicago Stadium                  ,"Chicago,IL","18,676"
-48,1994,2019, United Center                    ,"Chicago,IL","21,711"
-56,1970,74,Cleveland Arena                ,"Cleveland,OH","11,000"
-57,1974,94,The Coliseum                    ,"Richfield,OH","20,273"
-58,1994,05,Gund Arena                     ,"Cleveland,OH","20,562"
-59,2005,2019, Quicken Loans Arean            ,"Cleveland,OH","20,562"
-67,1980,01,Reunion Arena                     ,"Dallas,TX","18,042"
-68,01,2019,   American Airlines Arena           ,"Dallas,TX","19,200"
-76,1967,75,Auditorium Arena                   ,"Denver,CO","6,841"
-77,1975,99,McNichols Sports Arena            ,"Denver,CO","17,171"
-78,1999,2019, Pepsi Center                      ,"Denver,CO","19,309"
-87,1948,52,North Side High School Gym   Fort   ,"Wayne,IN","3,800"
-88,1952,57,Memorial Coliseum            Fort   ,"Wayne,IN","9,306"
-89,1957,61,Olympia Stadium                  ,"Detroit,MI","14,000"
-90,1961,78,Cobo Arena                       ,"Detroit,MI","11,147"
-91,1978,88,Silverdome                       ,"Pontiac,MI","22,366"
-92,1988,2019, Palace of Auburn        Auburn    ,Hills,"21,454"
-100,1946,52,Philadelphia Arena              ,"Philadelphia,PA","7,777"
-101,1952,62,Convention Hall                 ,"Philadelphia,PA","9,200"
-103,1962,64,Cow Palace                   San  ,"Francisco,CA","13,862"
-104,1964,66,Civic Auditorium             San   ,"Francsico,CA","7,500"
-106,1966,67,"Cow Palace,                 San  ","Francsico,CA","13,862"
-109,1967,71,Cow Palace                   San  ,"Francsico,CA","14,500"
-110,1971,96,Oakland Coliseum             Arena  ,"Oakland,CA","15,025"
-111,1996,97,San Jose Arena               San       ,"Jose,CA","18,500"
-112,1997,06,The Arena in Oakland                ,"Oakland,CA","19,200"
-113,2006,2019, Oracle Arena                        ,"Oakland,CA","19,596"
-121,1967,71,San Diego Sports Arena       San   ,"Diego,CA","14,000"
-122,1971,72,Hofheinz Pavilion                ,"Houston,TX","10,218"
-123,1972,73,Hofheinz Pavilion                ,"Houston,TX","10,218"
-125,1973,75,Hofheinz Pavilion                ,"Houston,TX","10,218"
-126,1975,03,Compaq Center                    ,"Houston,TX","16,285"
-127,2003,2019, Toyota                 ,Center,"Houston,TX"
-135,1967,74,State Fairgrounds              ,"Indianapolis,IN","9,479"
-136,1974,99,Market Square Arena           ,"Indianapolis,IN","16,530"
-137,1999,10,Conseco Fieldhouse            ,"Indianapolis,IN","19,200"
-138,2010,2019, Bankers Life Fieldhouse       ,"Indianapolis,IN","18,165"
-146,1970,78,Memorial Auditorium              ,"Buffalo,NY","17,300"
-147,1978,84,San Diego Sports Arena       San   ,"Diego,CA","12,167"
-148,1985,94,Los Angeles Sports Arena     Los  ,"Angeles,CA","16,005"
-149,1994,99,Los Angeles Sports Arena     Los  ,"Angeles,CA","16,021"
-150,1999,2019, Staples Center               Los  ,"Angeles,CA","19,060"
-159,1948,60,Minneapolis Auditorium        ,"Minneapolis,MN","10,000"
-160,1960,67,Los Angeles Sports Arena     Los   ,"Angeles,CA","14,781"
-161,1967,99,Great Western Forum             ,"Inglewood,CA","17,505"
-162,1999,2019, Staples Center               Los  ,"Angeles,CA","18,997"
-171,1995,01,General Motors Place           ,"Vancouver,BC","19,193"
-172,2001,04,The Pryamid                     ,"Memphis,Ten","20,142"
-173,2004,2019, FedExForum                      ,"Memphis,Ten","18,119"
-182,1988,99,Miami Arena                        ,"Miami,FL","15,200"
-183,1999,2019, American Airlines Arena            ,"Miami,FL","19,600"
-192,1989,90,Hubert H. Humphrey Metrodome   ,"Minneapolis,MN","23,000"
-193,1990,2019, Target Center                 ,"Minneapolis,MN","19,006"
-196,"Milwaukee,WI",,,,53203-1312
-202,1968,88,Milwaukee Arena                ,"Milwaukee,WI","11,052"
-203,1988,2019, Bradley Center                 ,"Milwaukee,WI","18,600"
-212,1967,68,Teaneck Armory                    ,"Teaneck,NJ","3,500"
-213,1968,69,Long Island Arena                 ,"Commack,NY","6,500"
-214,1969,71,Island Garden                W.  ,"Hempstead,NY","5,200"
-215,1971,77,Nassau Coliseum                ,"Uniondale,NY","15,200"
-216,1977,81,Rutgers Athletic Center        ,"Piscataway,NJ","9,050"
-217,1981,12,Continental Airlines Arena    ,"E.Rutherford,NJ","20,049"
-218,2012,2019, Barclays Center                  ,"Brooklyn,NY","17,732"
-227,1988,01,Charlotte Coliseum              ,"Charlotte,NC","24,042"
-228,2002,14,New Orleans Arena            New  ,"Orleans,LA","16,867"
-229,2014,2019, Smoothie King Center         New  ,"Orleans,LA","16,867"
-232,Two,,Pennsylvania Plaza New  ,"York,NY",10121-0091
-238,1946,68,Madison Square Garden III    New     ,"York,NY","18,496"
-239,1968,2019, Madison Square Garden IV     New     ,"York,NY","19,812"
-248,1989,97,Orlando Arena                     ,"Orlando,FL","17,248"
-249,1997,10,TD Waterhouse Arena               ,"Orlando,FL","17,248"
-250,2010,2019, Amway Center                      ,"Orlando,FL","18,846"
-259,1949,51,State Fair Coliseum               ,"Syracuse,NY","7,500"
-260,1951,63,Onondaga County War Memorial      ,"Syracuse,NY","8,000"
-261,1963,67,Convention Hall               ,"Philadelphia,PA","12,000"
-263,1967,96,First Union Spectrum          ,"Philadelphia,PA","18,136"
-264,1996,03,First Union Center            ,"Philadelphia,PA","20,444"
-265,2003,10,Wahcovia center                 ,"Philadelphia,PA","20,444"
-266,2010,2019, Wells Fargo Center            ,"Philadelphia,PA","20,328"
-275,1968,92,Arizona Veterans' Memorial Coliseum   ,"Phoenix,AZ","14,487"
-276,1992,15,America West Arena                ,"Phoenix,AZ","19,023"
-277,2015,2019, Talking Stick Resort Arena        ,"Phoenix,AZ","18,422"
-286,1970,95,Memorial Coliseum                ,"Portland,OR","12,888"
-287,1995,14,Rose Garden                      ,"Portland,OR","21,538"
-288,2014,2019, Moda Center                      ,"Portland,OR","19,980"
-297,1948,55,Edgarton Park Arena              ,"Rochester,NY","5,000"
-298,1955,58,Rochester War Memorial          ,"Rochester,NY","10,000"
-299,1958,72,Cincinnati Gardens             ,"Cincinnati,OH","11,438"
-300,1972,74,Municipal Auditorium         Kansas   ,"City,MO","9,929"
-302,1974,78,Kemper Arena                 Kansas  ,"City,MO","16,785"
-304,1978,85,Kemper Arena                 Kansas  ,"City,MO","16,785"
-305,1985,88,ARCO Arena I                   ,"Sacramento,CA","10,333"
-306,1988,13,ARCO Arena II                  ,"Sacramento,CA","17,317"
-307,2013,2019, Sleep Train Arena              ,"Sacramento,CA","17,317"
-310,San,, ,"Antonio,TX",78203-1031
-316,1967,70,Memorial Auditorium                ,"Dallas,TX","8,088"
-318,1970,71,"Moody Coliseum,                   ","Dallas,TX","8,500"
-321,1971,73,Moody Coliseum                     ,"Dallas,TX","9,500"
-323,1973,93,HemisFair Arena              San  ,"Antonio,TX","16,057"
-324,1993,02,Alamodome                    San  ,"Antonio,TX","25,557"
-325,2002,10,SBC Center                   San  ,"Antonio,TX","20,557"
-326,2010,2019, AT&T Center                  San  ,"Antonio,TX","18,418"
-335,1967,78,Seattle Center Coliseum          ,"Seattle,WA","14,098"
-336,1978,85,Kingdome                         ,"Seattle,WA","40,192"
-337,1985,94,Seattle Center Coliseum          ,"Seattle,WA","14,252"
-338,1994,95,Tacoma Dome                       ,"Tacoma,WA","19,000"
-339,1995,08,Key Arena                        ,"Seattle,WA","17,100"
-340,2008,2019, Chesapeake Energy Arena         ,"Oklahoma,OK","18,203"
-349,1995,99,SkyDome                           ,"Toronto,ON","22,911"
-350,1999,2019, Air Canada Centre                ,"Toronto,ON","19,500"
-359,1974,75,Municipal Auditorium         New     ,Orleans,"55,675"
-360,1975,79,Superdome                      ,New,Orleans
-361,1979,91,Salt Palace                  Salt Lake  ,City,"14,000?"
-362,1991,06,Delta Center                 Salt Lake  ,City,"19,911"
-363,2006,15,Energy Solutions Arena       Salt Lake  ,City,"19,911"
-364,2015,2019, Vivint Smart Home Arena      Salt Lake  ,City,"19,911"
-373,1961,62,Chicago Amphitheater             ,"Chicago,IL","11,000"
-374,1962,63,Chicago Coliseum                  ,"Chicago,IL","7,100"
-375,1963,73,Baltimore Civic Center         ,"Baltimore,MD","12,289"
-376,1973,97,USAir Arena                     ,"Landover,MD","18,756"
-377,1997,05,MCI Center                    ,"Washington,DC","21,500"
-378,2005,2019, Verizon Center               Washington   ,DC,"20,356"
-393,Ste.,,200  ,"Seattle,WA",98109-9711
+,StartYear,EndYear,Venue,City,Capacity,Team,ABV
+11,1949,1951,Wheaton Field House                ,"Moline,IL","6,000",Atlanta Hawks ,ATL
+12,1951,1955,Milwaukee Arena                ,"Milwaukee,WI","11,000",Atlanta Hawks ,ATL
+13,1955,1968,Kiel Auditorium             ,"St.Louis,MO","10,000",Atlanta Hawks ,ATL
+14,1968,1972,Alexander Memorial Coliseum       ,"Atlanta,GA","7,166",Atlanta Hawks ,ATL
+15,1972,1997,Omni Coliseum                     ,"Atlanta,GA","6,378",Atlanta Hawks ,ATL
+16,1997,1999,Georgia Dome                     ,"Atlanta,GA","21,570",Atlanta Hawks ,ATL
+18,1999,2019,Philips Arena                    ,"Atlanta,GA","20,000",Atlanta Hawks ,ATL
+27,1946,1995,Boston Garden                     ,"Boston,MA","14,890",Boston Celtics,BOS
+28,1995,2005,Fleet Center                      ,"Boston,MA","18,624",Boston Celtics,BOS
+29,2005,2019,TD Garden                         ,"Boston,MA","18,624",Boston Celtics,BOS
+38,2004,2019,Time Warner Cable Arena          ,"Charlotte,NC","19,077",Charolette Hornets,CHA
+46,1966,1967,Chicago Amphitheater             ,"Chicago,IL","11,002",Chicago Bulls,CHI
+47,1967,1994,Chicago Stadium                  ,"Chicago,IL","18,676",Chicago Bulls,CHI
+48,1994,2019,United Center                    ,"Chicago,IL","21,711",Chicago Bulls,CHI
+56,1970,1974,Cleveland Arena                ,"Cleveland,OH","11,000",Cleveland Cavaliers,CLE
+57,1974,1994,The Coliseum                    ,"Richfield,OH","20,273",Cleveland Cavaliers,CLE
+58,1994,2005,Gund Arena                     ,"Cleveland,OH","20,562",Cleveland Cavaliers,CLE
+59,2005,2019,Quicken Loans Arean            ,"Cleveland,OH","20,562",Cleveland Cavaliers,CLE
+67,1980,2001,Reunion Arena                     ,"Dallas,TX","18,042",Dallas Mavericks,DAL
+68,2001,2019,American Airlines Arena           ,"Dallas,TX","19,200",Dallas Mavericks,DAL
+76,1967,1975,Auditorium Arena                   ,"Denver,CO","6,841",Denver Nuggets,DEN
+77,1975,1999,McNichols Sports Arena            ,"Denver,CO","17,171",Denver Nuggets,DEN
+78,1999,2019,Pepsi Center                      ,"Denver,CO","19,309",Denver Nuggets,DEN
+87,1948,1952,North Side High School Gym   Fort   ,"Wayne,IN","3,800",Detroit Pistons,DET
+88,1952,1957,Memorial Coliseum            Fort   ,"Wayne,IN","9,306",Detroit Pistons,DET
+89,1957,1961,Olympia Stadium                  ,"Detroit,MI","14,000",Detroit Pistons,DET
+90,1961,1978,Cobo Arena                       ,"Detroit,MI","11,147",Detroit Pistons,DET
+91,1978,1988,Silverdome                       ,"Pontiac,MI","22,366",Detroit Pistons,DET
+92,1988,2019,Palace of Auburn       ,Auburn Hills,"21,454",Detroit Pistons,DET
+100,1946,1952,Philadelphia Arena              ,"Philadelphia,PA","7,777",Golden State Warriors ,GSW
+101,1952,1962,Convention Hall                 ,"Philadelphia,PA","9,200",Golden State Warriors ,GSW
+103,1962,1964,Cow Palace                  ,"San Francisco,CA","13,862",Golden State Warriors ,GSW
+104,1964,1966,Civic Auditorium          ,"San Francisco,CA","7,500",Golden State Warriors ,GSW
+106,1966,1967,Cow Palace       ,"San Francisco,CA","13,862",Golden State Warriors ,GSW
+109,1967,1971,Cow Palace              ,"San Francisco,CA","14,500",Golden State Warriors ,GSW
+110,1971,1996,Oakland Coliseum        ,"Oakland,CA","15,025",Golden State Warriors ,GSW
+111,1996,1997,San Jose Arena      ,"San Jose,CA","18,500",Golden State Warriors ,GSW
+112,1997,2006,The Arena in Oakland                ,"Oakland,CA","19,200",Golden State Warriors ,GSW
+113,2006,2019,Oracle Arena                        ,"Oakland,CA","19,596",Golden State Warriors ,GSW
+121,1967,1971,San Diego Sports Arena,"San Diego,CA","14,000",Houston Rockets,HOU
+122,1971,1972,Hofheinz Pavilion                ,"Houston,TX","10,218",Houston Rockets,HOU
+123,1972,1973,Hofheinz Pavilion                ,"Houston,TX","10,218",Houston Rockets,HOU
+125,1973,1975,Hofheinz Pavilion                ,"Houston,TX","10,218",Houston Rockets,HOU
+126,1975,2003,Compaq Center                    ,"Houston,TX","16,285",Houston Rockets,HOU
+127,2003,2019,Toyota Center,"Houston,TX","18,300",Houston Rockets,HOU
+135,1967,1974,State Fairgrounds              ,"Indianapolis,IN","9,479",Indiana Pacers,IND
+136,1974,1999,Market Square Arena           ,"Indianapolis,IN","16,530",Indiana Pacers,IND
+137,1999,2010,Conseco Fieldhouse            ,"Indianapolis,IN","19,200",Indiana Pacers,IND
+138,2010,2019,Bankers Life Fieldhouse       ,"Indianapolis,IN","18,165",Indiana Pacers,IND
+146,1970,1978,Memorial Auditorium              ,"Buffalo,NY","17,300",Los Angeles Clippers ,LAC
+147,1978,1984,San Diego Sports Arena  ,"San Diego,CA","12,167",Los Angeles Clippers ,LAC
+148,1985,1994,Los Angeles Sports Arena  ,"Los Angeles,CA","16,005",Los Angeles Clippers ,LAC
+149,1994,1999,Los Angeles Sports Arena ,"Los Angeles,CA","16,021",Los Angeles Clippers ,LAC
+150,1999,2019,Staples Center   ,"Los Angeles,CA","19,060",Los Angeles Clippers ,LAC
+159,1948,1960,Minneapolis Auditorium        ,"Minneapolis,MN","10,000",Los Angeles Lakers ,LAL
+160,1960,1967,Los Angeles Sports Arena  ,"Los Angeles,CA","14,781",Los Angeles Lakers ,LAL
+161,1967,1999,Great Western Forum             ,"Inglewood,CA","17,505",Los Angeles Lakers ,LAL
+162,1999,2019,Staples Center              ,"Los Angeles,CA","19,060",Los Angeles Lakers ,LAL
+171,1995,2001,General Motors Place           ,"Vancouver,BC","19,193",Memphis Grizzlies,MEM
+172,2001,2004,The Pryamid                     ,"Memphis,Ten","20,142",Memphis Grizzlies,MEM
+173,2004,2019,FedEx Forum                      ,"Memphis,Ten","18,119",Memphis Grizzlies,MEM
+182,1988,1999,Miami Arena                        ,"Miami,FL","15,200",Miami Heat,MIA
+183,1999,2019,American Airlines Arena            ,"Miami,FL","19,600",Miami Heat,MIA
+192,1989,1990,Hubert H. Humphrey Metrodome   ,"Minneapolis,MN","23,000",Minnesota Timberwolves,MIN
+193,1990,2019,Target Center                 ,"Minneapolis,MN","19,006",Minnesota Timberwolves,MIN
+202,1968,1988,Milwaukee Arena                ,"Milwaukee,WI","11,052",Milwaukee Bucks,MIL
+203,1988,2019,Bradley Center                 ,"Milwaukee,WI","18,600",Milwaukee Bucks,MIL
+212,1967,1968,Teaneck Armory                    ,"Teaneck,NJ","3,500",Brooklyn Nets,BKN
+213,1968,1969,Long Island Arena                 ,"Commack,NY","6,500",Brooklyn Nets,BKN
+214,1969,1971,Island Garden            ,"W. Hempstead,NY","5,200",Brooklyn Nets,BKN
+215,1971,1977,Nassau Coliseum                ,"Uniondale,NY","15,200",Brooklyn Nets,BKN
+216,1977,1981,Rutgers Athletic Center        ,"Piscataway,NJ","9,050",Brooklyn Nets,BKN
+217,1981,2012,Continental Airlines Arena    ,"E.Rutherford,NJ","20,049",Brooklyn Nets,BKN
+218,2012,2019,Barclays Center                  ,"Brooklyn,NY","17,732",Brooklyn Nets,BKN
+227,1988,2001,Charlotte Coliseum              ,"Charlotte,NC","24,042",New Orleans Pelicans,NOP
+228,2002,2014,New Orleans Arena         ,"New Orleans,LA","16,867",New Orleans Pelicans,NOP
+229,2014,2019,Smoothie King Center     ,"New Orleans,LA","16,867",New Orleans Pelicans,NOP
+238,1946,1968,Madison Square Garden III     ,"New York,NY","18,496",New York Knicks,NYK
+239,1968,2019,Madison Square Garden IV    ,"New York,NY","19,812",New York Knicks,NYK
+248,1989,1997,Orlando Arena                     ,"Orlando,FL","17,248",Orlando Magic,ORL
+249,1997,2010,TD Waterhouse Arena               ,"Orlando,FL","17,248",Orlando Magic,ORL
+250,2010,2019,Amway Center                      ,"Orlando,FL","18,846",Orlando Magic,ORL
+259,1949,1951,State Fair Coliseum               ,"Syracuse,NY","7,500",Philadelphia Sixers,PHI
+260,1951,1963,Onondaga County War Memorial      ,"Syracuse,NY","8,000",Philadelphia Sixers,PHI
+261,1963,1967,Convention Hall               ,"Philadelphia,PA","12,000",Philadelphia Sixers,PHI
+263,1967,1996,First Union Spectrum          ,"Philadelphia,PA","18,136",Philadelphia Sixers,PHI
+264,1996,2003,First Union Center            ,"Philadelphia,PA","20,444",Philadelphia Sixers,PHI
+265,2003,2010,Wahcovia center                 ,"Philadelphia,PA","20,444",Philadelphia Sixers,PHI
+266,2010,2019,Wells Fargo Center            ,"Philadelphia,PA","20,328",Philadelphia Sixers,PHI
+275,1968,1992,Arizona Veterans' Memorial Coliseum   ,"Phoenix,AZ","14,487",Phoenix Suns,PHX
+276,1992,2015,America West Arena                ,"Phoenix,AZ","19,023",Phoenix Suns,PHX
+277,2015,2019,Talking Stick Resort Arena        ,"Phoenix,AZ","18,422",Phoenix Suns,PHX
+286,1970,1995,Memorial Coliseum                ,"Portland,OR","12,888",Portland Trailblazers ,POR
+287,1995,2014,Rose Garden                      ,"Portland,OR","21,538",Portland Trailblazers ,POR
+288,2014,2019,Moda Center                      ,"Portland,OR","19,980",Portland Trailblazers ,POR
+297,1948,1955,Edgarton Park Arena              ,"Rochester,NY","5,000",Sacramento Kings ,SAC
+298,1955,1958,Rochester War Memorial          ,"Rochester,NY","10,000",Sacramento Kings ,SAC
+299,1958,1972,Cincinnati Gardens             ,"Cincinnati,OH","11,438",Sacramento Kings ,SAC
+300,1972,1974,Municipal Auditorium      ,"Kansas City,MO","9,929",Sacramento Kings ,SAC
+302,1974,1978,Kemper Arena           ,"Kansas City,MO","16,785",Sacramento Kings ,SAC
+304,1978,1985,Kemper Arena               ,"Kansas City,MO","16,785",Sacramento Kings ,SAC
+305,1985,1988,ARCO Arena I                   ,"Sacramento,CA","10,333",Sacramento Kings ,SAC
+306,1988,2013,ARCO Arena II                  ,"Sacramento,CA","17,317",Sacramento Kings ,SAC
+307,2013,2019,Sleep Train Arena              ,"Sacramento,CA","17,317",Sacramento Kings ,SAC
+316,1967,1970,Memorial Auditorium                ,"Dallas,TX","8,088",San Antoni Spurs ,SAS
+318,1970,1971,Moody Coliseum                ,"Dallas,TX","8,500",San Antoni Spurs ,SAS
+321,1971,1973,Moody Coliseum                     ,"Dallas,TX","9,500",San Antoni Spurs ,SAS
+323,1973,1993,HemisFair Arena            ,"San Antonio,TX","16,057",San Antoni Spurs ,SAS
+324,1993,2002,Alamodome                ,"San Antonio,TX","25,557",San Antoni Spurs ,SAS
+325,2002,2010,SBC Center              ,"San Antonio,TX","20,557",San Antoni Spurs ,SAS
+326,2010,2019,AT&T Center               ,"San Antonio,TX","18,418",San Antoni Spurs ,SAS
+335,1967,1978,Seattle Center Coliseum          ,"Seattle,WA","14,098",Oklahoma City Thunder,OKC
+336,1978,1985,Kingdome                         ,"Seattle,WA","40,192",Oklahoma City Thunder,OKC
+337,1985,1994,Seattle Center Coliseum          ,"Seattle,WA","14,252",Oklahoma City Thunder,OKC
+338,1994,1995,Tacoma Dome                       ,"Tacoma,WA","19,000",Oklahoma City Thunder,OKC
+339,1995,2008,Key Arena                        ,"Seattle,WA","17,100",Oklahoma City Thunder,OKC
+340,2008,2019,Chesapeake Energy Arena         ,"Oklahoma,OK","18,203",Oklahoma City Thunder,OKC
+349,1995,1999,SkyDome                           ,"Toronto,ON","22,911",Toronto Raptors ,TOR
+350,1999,2019,Air Canada Centre                ,"Toronto,ON","19,500",Toronto Raptors ,TOR
+359,1974,1975,Municipal Auditorium       ,"New Orleans,LA","55,675",Utah Jazz,UTA
+360,1975,1979,Superdome                      ,"New Orleans,LA","74,295",Utah Jazz,UTA
+361,1979,1991,Salt Palace                ,"Salt Lake City,UT","14,000",Utah Jazz,UTA
+362,1991,2006,Delta Center                 ,"Salt Lake City,UT","19,911",Utah Jazz,UTA
+363,2006,2015,Energy Solutions Arena      ,"Salt Lake City,UT","19,911",Utah Jazz,UTA
+364,2015,2019,Vivint Smart Home Arena     ,"Salt Lake City,UT","19,911",Utah Jazz,UTA
+373,1961,1962,Chicago Amphitheater             ,"Chicago,IL","11,000",Washington Wizards,WAS
+374,1962,1963,Chicago Coliseum                  ,"Chicago,IL","7,100",Washington Wizards,WAS
+375,1963,1973,Baltimore Civic Center         ,"Baltimore,MD","12,289",Washington Wizards,WAS
+376,1973,1997,USAir Arena                     ,"Landover,MD","18,756",Washington Wizards,WAS
+377,1997,2005,MCI Center                    ,"Washington,DC","21,500",Washington Wizards,WAS
+378,2005,2019,Verizon Center               ,"Washington,DC","20,356",Washington Wizards,WAS
