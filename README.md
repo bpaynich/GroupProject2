@@ -8,7 +8,7 @@ Sean Roth
 Richard Yarbough
 Bryan Paynich
 
-##ETL
+ETL
 ETL is an abbreviation for Extract, Transform, and Load.  These 3 functions are the basis for taking unorganized, various data and normalizing it into one useable format.  The extraction function is used for pulling data from various sources that maybe not in a standard common format.  Once the data is brought together it is organized or Transformed into a consistent workable format.  The Load procedure is then used to push the data into a database that can be accessed and used for analysis and visualization.
 Extract/Transform/Load
 NBA player/stadium mashup 
