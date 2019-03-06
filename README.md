@@ -1,6 +1,6 @@
 Initial Tasks
 
-Richard - extract arena location by year - See attached ipynb file.
+Richard - extract arena location by year
 
 Sean - create databases definition, extract address info by Arena name
 
