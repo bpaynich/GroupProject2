@@ -16,12 +16,12 @@ from ipywidgets.embed import embed_minimal_html
 warnings.filterwarnings('ignore')
 
 # Google developer API key
-from config import gkey
+#from config import gkey
 
 # Access maps with unique API key
-gmaps.configure(api_key=gkey)
-gm = googlemaps.Client(key=gkey)
-gmaps.configure(api_key=gkey) 
+#gmaps.configure(api_key=gkey)
+#gm = googlemaps.Client(key=gkey)
+#gmaps.configure(api_key=gkey) 
 
 import pymysql
 pymysql.install_as_MySQLdb()
@@ -45,7 +45,7 @@ app = Flask(__name__)
 #################################################
 
 years_list = []
-years_list = list(range(1950,2019))
+years_list = list(range(1950,2017))
     
 teams_list = []
 team_file = ("../Resources/ab_map.csv")
